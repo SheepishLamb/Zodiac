@@ -46,7 +46,8 @@
 				<div class="itparagraph">
 				<div id="credits1">
 				</div>
-</div>			
+</div>	
+</div>		
 				  
 				<div hidden id="item1" style="text-align: center; margin: 50px 0px;">
 				<img id="itimg1" class="itimg" src="rolactid.png">

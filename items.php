@@ -33,7 +33,7 @@
 	<div id="itselect">
             <select id="itselecta">
 			<option>Item Select</option>
-			<option>Credit</option>
+			<option>Credits</option>
 			<option>Smartwatch</option>
 			<option>Lucky Dice</option>
 			<option>USB</option>
@@ -151,6 +151,11 @@ $(function() {
         $("#item5").prop("hidden", false);
       } else if ($(this).val() != "Rollershoes") {
         $("#item5").prop("hidden", true);
+      }
+	   if ($(this).val() == "Credits") {
+        $("#item0").prop("hidden", false);
+      } else if ($(this).val() != "Credits") {
+        $("#item0").prop("hidden", true);
       }
     });
 	

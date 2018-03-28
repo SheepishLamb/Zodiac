@@ -158,7 +158,7 @@ $(function() {
     });
 	
 	$(function() {
-	$("#credits1").load("credits.php");
+	$("#credits1").load("Credits.php");
 	});
 	
 	$('#itimg1').click(function(e) {

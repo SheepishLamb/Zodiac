@@ -33,12 +33,22 @@
 	<div id="itselect">
             <select id="itselecta">
 			<option>Item Select</option>
+			<option>Credit</option>
 			<option>Smartwatch</option>
 			<option>Lucky Dice</option>
 			<option>USB</option>
 			<option>Rollershoes</option>
 			</select>
    </div>
+   
+   <div hidden id="item0" style="text-align: center; margin: 50px 0px;">
+				
+				<div class="ittitle">Credits</div>
+				<div class="itparagraph">
+				<div id="credits1">
+				</div>
+				
+</div>			
 				  
 				<div hidden id="item1" style="text-align: center; margin: 50px 0px;">
 				<img id="itimg1" class="itimg" src="rolactid.png">
@@ -143,6 +153,10 @@ $(function() {
         $("#item5").prop("hidden", true);
       }
     });
+	
+	$(function() {
+	$("#credits1").load("credits.html");
+	}
 	
 	$('#itimg1').click(function(e) {
 		$('#itimg1a').toggle();

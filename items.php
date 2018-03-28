@@ -42,12 +42,10 @@
    </div>
    
    <div hidden id="item0" style="text-align: center; margin: 50px 0px;">
-				
 				<div class="ittitle">Credits</div>
 				<div class="itparagraph">
 				<div id="credits1">
 				</div>
-				
 </div>			
 				  
 				<div hidden id="item1" style="text-align: center; margin: 50px 0px;">
@@ -161,7 +159,7 @@ $(function() {
 	
 	$(function() {
 	$("#credits1").load("credits.html");
-	}
+	});
 	
 	$('#itimg1').click(function(e) {
 		$('#itimg1a').toggle();

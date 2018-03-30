@@ -48,19 +48,19 @@
 				<tr>
 				<td>Race: Human
 				</td>
-				<td>Class/Level
+				<td>Class/Level: Smart/5
 				</td>
-				<td>Alignment
+				<td>Alignment/Alligence: .../Xicheng Hub
 				</td>
-				<td>Residence
+				<td>Residence: Beijing
 				</td>
 				</tr>
 				<tr>
-				<td>Occupation
+				<td>Starting Occupation: Criminal
 				</td>
-				<td>Date of Birth
+				<td>Date/Place of Birth: 10-31-2052/Zhangjakou
 				</td>
-				<td>Nationality
+				<td>Nationality: Chinese
 				</td>
 				<td>Gender: Male
 				</td>
@@ -68,11 +68,11 @@
 				<tr>
 				<td>Age: 26
 				</td>
-				<td>Weight/Height
+				<td>Weight/Height: 171lbs/5'11"
 				</td>
-				<td>Hair
+				<td>Hair: Dirty Blonde
 				</td>
-				<td>Eyes
+				<td>Eyes: Brown
 				</td>
 				</tr>
 				</table>
@@ -81,7 +81,7 @@
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
 				  <img id="chimg1" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
+				  <b>...</b></li>
                   </ul>
 				  </div>
 				  <!-- Character 1 - End -->
@@ -94,31 +94,31 @@
 				<tr>
 				<td>Race: Human
 				</td>
-				<td>Class/Level
+				<td>Class/Level: Dedicated - Acolyte/3 - 2
 				</td>
-				<td>Alignment
+				<td>Alignment/Allegience: Neutral Good/Xicheng Hub
 				</td>
-				<td>Residence
+				<td>Residence: Xicheng Hub
 				</td>
 				</tr>
 				<tr>
-				<td>Occupation
+				<td>Starting Occupation: Religious (Scientology)
 				</td>
-				<td>Date of Birth
+				<td>Date/Place of Birth: 11-11-2043/China
 				</td>
-				<td>Nationality
+				<td>Nationality: Chinese
 				</td>
-				<td>Gender
+				<td>Gender: Female
 				</td>
 				</tr>
 				<tr>
 				<td>Age: 35
 				</td>
-				<td>Weight/Height
+				<td>Weight/Height: ...
 				</td>
-				<td>Hair
+				<td>Hair: ...
 				</td>
-				<td>Eyes
+				<td>Eyes: ...
 				</td>
 				</tr>
 				</table>
@@ -127,43 +127,43 @@
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
 				  <img id="chimg2" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
+				  <b>...</b></li>
                   </ul>
 				  </div>
 				  <!-- Character 2 - End -->
 				  
 				  <!-- Character 3 -->				  
 				  <div id="character3a" class="tab" style="display: none;">	
-<h1>Gustavo Gibson</h1>				  
+<h1>Gustavo "Gus" Gibson or G.G.</h1>				  
 				<table style="font-size: 12pt; width: 625px; margin: auto;">
 				<tr>
 				<td>Race: Human
 				</td>
-				<td>Class/Level
+				<td>Class/Level: Fast / 5
 				</td>
-				<td>Alignment
+				<td>Alignment/Alligence: .../Xicheng Hub
 				</td>
-				<td>Residence
+				<td>Residence: Xicheng Hub
 				</td>
 				</tr>
 				<tr>
-				<td>Occupation
+				<td>Starting Occupation: Entrepreneur
 				</td>
-				<td>Date of Birth
+				<td>Date/Place of Birth: 5-15-2052/Los Angeles, CA, USA
 				</td>
-				<td>Nationality
+				<td>Nationality: ...
 				</td>
-				<td>Gender
+				<td>Gender: Male
 				</td>
 				</tr>
 				<tr>
 				<td>Age: 26
 				</td>
-				<td>Weight/Height
+				<td>Weight/Height: 150lbs/5'10"
 				</td>
-				<td>Hair
+				<td>Hair: Black
 				</td>
-				<td>Eyes
+				<td>Eyes: Brown
 				</td>
 				</tr>
 				</table>
@@ -172,7 +172,7 @@
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
 				  <img id="chimg3" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
+				  <b>...</b></li>
                   </ul>
 				  </div>
 				  <!-- Character 3 - End -->
@@ -186,19 +186,19 @@
 				</td>
 				<td>Class/Level
 				</td>
-				<td>Alignment
+				<td>Alignment/Alligence
 				</td>
 				<td>Residence
 				</td>
 				</tr>
 				<tr>
-				<td>Occupation
+				<td>Starting Occupation
 				</td>
-				<td>Date of Birth: June 23rd, 2050
+				<td>Date/Place of Birth: June 23rd, 2050
 				</td>
 				<td>Nationality
 				</td>
-				<td>Gender
+				<td>Gender: Male
 				</td>
 				</tr>
 				<tr>
@@ -217,7 +217,7 @@
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
 				  <img id="chimg4" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
+				  <b>...</b></li>
                   </ul>
 				  </div>
 				  <!-- Character 4 - End -->
@@ -295,11 +295,11 @@
 				</tr>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
+				<b style="font-size: 18pt;">Summary</b>
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
 				  <img id="chimg5" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
+				  <b>A man known as “The Silent”. (This is mostly because when a problem arises in the district, he prefers action over conversation.)</b></li>
                   </ul>
 				  </div>
 				  <!-- NPC 1 - End -->

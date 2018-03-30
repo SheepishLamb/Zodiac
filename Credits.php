@@ -2,12 +2,12 @@
       .c0 {
         border: 1pt solid black;
         margin: auto;
-        background-color: #c9daf8;
+        background-color: #364050;
         width: 157.5pt;
       }
 
       .c9 {
-        background-color: #a4c2f4;
+        background-color: #3d5e94;
       }
 
       .c6 {

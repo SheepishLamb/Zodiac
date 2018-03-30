@@ -3,6 +3,11 @@
 <!-- chimages -->
 <div hidden id="itimg1a" class="itimga">
 <div class="itimgclose">X</div>
+<img id="itimg0b" class="itimgb" src="credit.png">
+</div>
+
+<div hidden id="itimg1a" class="itimga">
+<div class="itimgclose">X</div>
 <img id="itimg1b" class="itimgb" src="rolactid.png">
 </div>
 
@@ -42,6 +47,7 @@
    </div>
    
    <div hidden id="item0" style="text-align: center; margin: 50px 0px;">
+   <img id="itimg0" class="itimg" src="credit.png">
 				<div class="ittitle">Credits</div>
 				<div class="itparagraph">
 				<div id="credits1">
@@ -162,6 +168,9 @@ $(function() {
 	$("#credits1").load("Credits.php");
 	});
 	
+	$('#itimg0').click(function(e) {
+		$('#itimg0a').toggle();
+	});
 	$('#itimg1').click(function(e) {
 		$('#itimg1a').toggle();
 	});

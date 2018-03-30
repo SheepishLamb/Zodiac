@@ -51,36 +51,21 @@
      <div id="character1a" class="tab" style="display: none;">	
 <h1>Willard Yijun</h1>	 
 				<table style="font-size: 12pt; width: 625px; margin: auto;">
-				<tr>
-				<td>Race: Human
-				</td>
-				<td>Class/Level: Smart/5
-				</td>
-				<td>Alignment/Alligence: .../Xicheng Hub
-				</td>
-				<td>Residence: Beijing
-				</td>
-				</tr>
-				<tr>
-				<td>Starting Occupation: Criminal
-				</td>
-				<td>Date/Place of Birth: 10-31-2052/Zhangjakou
-				</td>
-				<td>Nationality: Chinese
-				</td>
-				<td>Gender: Male
-				</td>
-				</tr>
-				<tr>
-				<td>Age: 26
-				</td>
-				<td>Weight/Height: 171lbs/5'11"
-				</td>
-				<td>Hair: Dirty Blonde
-				</td>
-				<td>Eyes: Brown
-				</td>
-				</tr>
+				<tr><td>Race</td><td>Human</td></tr>
+				<tr><td>Class - Level</td><td>Smart - 5</td></tr>
+				<tr><td>Alignment</td><td>...</td></tr>
+				<tr><td>Alligence</td><td>Xicheng Hub</td></tr>
+				<tr><td>Residence</td><td>Beijing</td></tr>
+				<tr><td>Starting Occupation</td><td>Criminal</td></tr>
+				<tr><td>Date of Birth</td><td>10-31-2052</td></tr>
+				<tr><td>Place of Birth</td><td>Zhangjakou</td></tr>
+				<tr><td>Nationality</td><td>Chinese</td></tr>
+				<tr><td>Gender</td><td>Male</td></tr>
+				<tr><td>Age</td><td>26</td></tr>
+				<tr><td>Weight</td><td>171lbs</td></tr>
+				<tr><td>Height</td><td>5'11"</td></tr>
+				<tr><td>Hair</td><td>Dirty Blonde</td></tr>
+				<tr><td>Eyes</td><td>Brown</td></tr>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>
@@ -208,7 +193,7 @@
 				</td>
 				</tr>
 				<tr>
-				<td>Age: 28
+				<td>Age
 				</td>
 				<td>Weight/Height
 				</td>

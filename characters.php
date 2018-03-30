@@ -51,21 +51,28 @@
      <div id="character1a" class="tab" style="display: none;">	
 <h1>Willard Yijun</h1>	 
 				<table style="font-size: 12pt; width: 625px; margin: auto;">
-				<tr><td>Race</td><td>Human</td></tr>
-				<tr><td>Class - Level</td><td>Smart - 5</td></tr>
-				<tr><td>Alignment</td><td>...</td></tr>
-				<tr><td>Alligence</td><td>Xicheng Hub</td></tr>
-				<tr><td>Residence</td><td>Beijing</td></tr>
-				<tr><td>Starting Occupation</td><td>Criminal</td></tr>
-				<tr><td>Date of Birth</td><td>10-31-2052</td></tr>
-				<tr><td>Place of Birth</td><td>Zhangjakou</td></tr>
-				<tr><td>Nationality</td><td>Chinese</td></tr>
-				<tr><td>Gender</td><td>Male</td></tr>
-				<tr><td>Age</td><td>26</td></tr>
-				<tr><td>Weight</td><td>171lbs</td></tr>
-				<tr><td>Height</td><td>5'11"</td></tr>
-				<tr><td>Hair</td><td>Dirty Blonde</td></tr>
-				<tr><td>Eyes</td><td>Brown</td></tr>
+				<tr>
+				<td>Race</td><td>Human</td>
+				<td>Class - Level</td><td>Smart - 5</td>
+				<td>Alignment</td><td>...</td>
+				<td>Alligence</td><td>Xicheng Hub</td>
+				</tr>
+				<tr>
+				<td>Residence</td><td>Beijing</td>
+				<td>Starting Occupation</td><td>Criminal</td>
+				<td>Date of Birth</td><td>10-31-2052</td>
+				<td>Place of Birth</td><td>Zhangjakou</td>
+				</tr>
+				<tr>
+				<td>Nationality</td><td>Chinese</td>
+				<td>Gender</td><td>Male</td>
+				<td>Age</td><td>26</td>
+				<td>Weight</td><td>171lbs</td>
+				</tr>
+				<tr>
+				<td>Height</td><td>5'11"</td>
+				<td>Hair</td><td>Dirty Blonde</td>
+				<td>Eyes</td><td>Brown</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>

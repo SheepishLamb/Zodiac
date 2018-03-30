@@ -1,7 +1,7 @@
 <div id="itcontainer">
 
 <!-- chimages -->
-<div hidden id="itimg1a" class="itimga">
+<div hidden id="itimg0a" class="itimga">
 <div class="itimgclose">X</div>
 <img id="itimg0b" class="itimgb" src="credit.png">
 </div>
@@ -39,10 +39,12 @@
             <select id="itselecta">
 			<option>Item Select</option>
 			<option>Credits</option>
-			<option>Smartwatch</option>
 			<option>Lucky Dice</option>
-			<option>USB</option>
+			<option>Rolactid</option>
 			<option>Rollershoes</option>
+			<option>Smartwatch</option>
+			<option>USB</option>
+			
 			</select>
    </div>
    
@@ -64,7 +66,7 @@
 				<br/>To be taken once every 24 hours. Player suffers 1 hour headache, -2 Wisdom & Charisma during that time. Headache goes away after 1 hour. +3 to Perception & Sense Motive as long as pill is taken that day.
 				</div>
 				<div style="text-align: center;">Pill Count:
-				<br/><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></div>
+				<br/><input type="checkbox" checked="true" disabled><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></div>
 </div>				
 
 <div hidden id="item2" style="text-align: center; margin: 50px 0px;">
@@ -99,7 +101,7 @@
 				<br/>+3 to Disable Device/Computer Use/electronic-related checks, as long as USB port is present.
 				</div>
 				<div style="text-align: center;">Codes Unlocked:
-				<br/>_______
+				<br/>Fuchsia
 				<br/>_______
 				<br/>_______
 				<br/>_______
@@ -132,9 +134,9 @@
 <script>
 $(function() {
       $("#itselecta").change(function() {
-      if ($(this).val() == "Item1") {
+      if ($(this).val() == "Rolactid") {
         ($("#item1").prop("hidden", false));
-      } else if ($(this).val() != "Item1") {
+      } else if ($(this).val() != "Rolactid") {
         ($("#item1").prop("hidden", true));
       }
 	  if ($(this).val() == "Smartwatch") {

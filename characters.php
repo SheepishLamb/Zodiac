@@ -27,6 +27,11 @@
 <div class="imgclose">X</div>
 <img id="chimg4b" class="imgb" src="companylogo.png">
 </div>
+
+<div hidden id="chimg5a" class="imga">
+<div class="imgclose">X</div>
+<img id="chimg5b" class="imgb" src="companylogo.png">
+</div>
 <!-- chimages - end -->
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Player Characters</h1>			
@@ -37,6 +42,7 @@
 	  <li id="character2"><a href="#character2a">Qīngtíng</a></li>
 	  <li id="character3"><a href="#character3a">Gustavo Gibson</a></li>
 	  <li id="character4"><a href="#character4a">Bellamy</a></li>
+	  <li id="character5"><a href="#character5a">Steve</a></li>
     </ul>
 	
 	<div class="tab-content">
@@ -222,6 +228,51 @@
 				  </div>
 				  <!-- Character 4 - End -->
 				  
+				  <!-- Character 5 -->				  
+				  <div id="character5a" class="tab" style="display: none;">		
+<h1>Steve</h1>				  
+				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<tr>
+				<td>Race: Human
+				</td>
+				<td>Class/Level: .../5
+				</td>
+				<td>Alignment/Alligence
+				</td>
+				<td>Residence
+				</td>
+				</tr>
+				<tr>
+				<td>Starting Occupation
+				</td>
+				<td>Date/Place of Birth
+				</td>
+				<td>Nationality
+				</td>
+				<td>Gender: Male
+				</td>
+				</tr>
+				<tr>
+				<td>Age: 28
+				</td>
+				<td>Weight/Height
+				</td>
+				<td>Hair
+				</td>
+				<td>Eyes
+				</td>
+				</tr>
+				</table>
+				
+				<b style="font-size: 18pt;">Backstory</b>
+                  <ul style="font-size: 10pt;">
+				  <li class="chparagraph">
+				  <img id="chimg5" class="img" src="companylogo.png">
+				  <b>...</b></li>
+                  </ul>
+				  </div>
+				  <!-- Character 5 - End -->
+				  
 
 </div>
 </div>
@@ -230,9 +281,9 @@
 <div hidden id="chnpcs1">	
 
 <!-- chimages -->
-<div hidden id="chimg5a" class="imga">
+<div hidden id="chimg51a" class="imga">
 <div class="imgclose">X</div>
-<img id="chimg5b" class="imgb" src="companylogo.png">
+<img id="chimg51b" class="imgb" src="companylogo.png">
 </div>
 
 <div hidden id="chimg6a" class="imga">
@@ -298,7 +349,7 @@
 				<b style="font-size: 18pt;">Summary</b>
                   <ul style="font-size: 10pt;">
 				  <li class="chparagraph">
-				  <img id="chimg5" class="img" src="companylogo.png">
+				  <img id="chimg51" class="img" src="companylogo.png">
 				  <b>A man known as “The Silent”. (This is mostly because when a problem arises in the district, he prefers action over conversation.)</b></li>
                   </ul>
 				  </div>
@@ -473,6 +524,9 @@ $(document).ready(function() {
 	});
 	$('#chimg5').click(function(e) {
 		$('#chimg5a').toggle();
+	});
+	$('#chimg51').click(function(e) {
+		$('#chimg51a').toggle();
 	});
 	$('#chimg6').click(function(e) {
 		$('#chimg6a').toggle();

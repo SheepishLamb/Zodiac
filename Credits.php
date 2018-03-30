@@ -13,7 +13,6 @@
         orphans: 2;
         widows: 2;
         text-align: left;
-        height: 11pt
       }
 
       .c4 {
@@ -24,13 +23,13 @@
       }
 
       .c13 {
-        text-align: left
+        text-align: left;
       }
 
       .c11 {
         border-spacing: 0;
         border-collapse: collapse;
-        margin-right: auto
+        margin: auto;
       }
 
       .c14 {
@@ -39,15 +38,15 @@
       }
 
       .c7 {
-        font-family: "Georgia"
+        font-family: "Georgia";
       }
 
       .c9 {
-        background-color: #a4c2f4
+        background-color: #a4c2f4;
       }
 
       .c6 {
-        background-color: #c9daf8
+        background-color: #c9daf8;
       }
     </style>
 

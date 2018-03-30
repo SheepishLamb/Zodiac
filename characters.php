@@ -50,29 +50,29 @@
 	<!-- Character 1 -->
      <div id="character1a" class="tab" style="display: none;">	
 <h1>Willard Yijun</h1>	 
-				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
-				<td>Race</td><td>Human</td>
-				<td>Class - Level</td><td>Smart - 5</td>
-				<td>Alignment</td><td>...</td>
-				<td>Alligence</td><td>Xicheng Hub</td>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Smart - 5</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td>Residence</td><td>Beijing</td>
-				<td>Starting Occupation</td><td>Criminal</td>
-				<td>Date of Birth</td><td>10-31-2052</td>
-				<td>Place of Birth</td><td>Zhangjakou</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">Criminal</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">10-31-2052</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Zhangjakou</td>
 				</tr>
 				<tr>
-				<td>Nationality</td><td>Chinese</td>
-				<td>Gender</td><td>Male</td>
-				<td>Age</td><td>26</td>
-				<td>Weight</td><td>171lbs</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">Chinese</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">26</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">171lbs</td>
 				</tr>
 				<tr>
-				<td>Height</td><td>5'11"</td>
-				<td>Hair</td><td>Dirty Blonde</td>
-				<td>Eyes</td><td>Brown</td>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'11"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Dirty Blonde</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>
@@ -88,37 +88,29 @@
 				  <!-- Character 2 -->				  
 				  <div id="character2a" class="tab" style="display: none;">
 <h1>Qīngtíng (Dragonfly)</h1>				  
-				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
-				<td>Race: Human
-				</td>
-				<td>Class/Level: Dedicated - Acolyte/3 - 2
-				</td>
-				<td>Alignment/Allegience: Neutral Good/Xicheng Hub
-				</td>
-				<td>Residence: Xicheng Hub
-				</td>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Dedicated - 3<br/>Acolyte - 2</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Neutral Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td>Starting Occupation: Religious (Scientology)
-				</td>
-				<td>Date/Place of Birth: 11-11-2043/China
-				</td>
-				<td>Nationality: Chinese
-				</td>
-				<td>Gender: Female
-				</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">Religious (Scientology)</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">11-11-2043</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">China</td>
 				</tr>
 				<tr>
-				<td>Age: 35
-				</td>
-				<td>Weight/Height: ...
-				</td>
-				<td>Hair: ...
-				</td>
-				<td>Eyes: ...
-				</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">Chinese</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Female</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">35</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">...</td>
 				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>
@@ -133,37 +125,29 @@
 				  <!-- Character 3 -->				  
 				  <div id="character3a" class="tab" style="display: none;">	
 <h1>Gustavo "Gus" Gibson or G.G.</h1>				  
-				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
-				<td>Race: Human
-				</td>
-				<td>Class/Level: Fast / 5
-				</td>
-				<td>Alignment/Alligence: .../Xicheng Hub
-				</td>
-				<td>Residence: Xicheng Hub
-				</td>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Fast - 5</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td>Starting Occupation: Entrepreneur
-				</td>
-				<td>Date/Place of Birth: 5-15-2052/Los Angeles, CA, USA
-				</td>
-				<td>Nationality: ...
-				</td>
-				<td>Gender: Male
-				</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">Entrepreneur</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">5-15-2052</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Los Angeles, CA, USA</td>
 				</tr>
 				<tr>
-				<td>Age: 26
-				</td>
-				<td>Weight/Height: 150lbs/5'10"
-				</td>
-				<td>Hair: Black
-				</td>
-				<td>Eyes: Brown
-				</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">26</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">150lbs</td>
 				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'10"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Black</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>
@@ -178,37 +162,29 @@
 				  <!-- Character 4 -->				  
 				  <div id="character4a" class="tab" style="display: none;">		
 <h1>Bellamy</h1>				  
-				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
-				<td>Race: Human
-				</td>
-				<td>Class/Level
-				</td>
-				<td>Alignment/Alligence
-				</td>
-				<td>Residence
-				</td>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td>Starting Occupation
-				</td>
-				<td>Date/Place of Birth: June 23rd, 2050
-				</td>
-				<td>Nationality
-				</td>
-				<td>Gender: Male
-				</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">6-23-2050</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
 				</tr>
 				<tr>
-				<td>Age
-				</td>
-				<td>Weight/Height
-				</td>
-				<td>Hair
-				</td>
-				<td>Eyes
-				</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">28</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">...</td>
 				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>
@@ -223,37 +199,29 @@
 				  <!-- Character 5 -->				  
 				  <div id="character5a" class="tab" style="display: none;">		
 <h1>Steve</h1>				  
-				<table style="font-size: 12pt; width: 625px; margin: auto;">
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
-				<td>Race: Human
-				</td>
-				<td>Class/Level: .../5
-				</td>
-				<td>Alignment/Alligence
-				</td>
-				<td>Residence
-				</td>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td>Starting Occupation
-				</td>
-				<td>Date/Place of Birth
-				</td>
-				<td>Nationality
-				</td>
-				<td>Gender: Male
-				</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
 				</tr>
 				<tr>
-				<td>Age: 28
-				</td>
-				<td>Weight/Height
-				</td>
-				<td>Hair
-				</td>
-				<td>Eyes
-				</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">...</td>
 				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
 				<b style="font-size: 18pt;">Backstory</b>

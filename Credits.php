@@ -1,44 +1,9 @@
     <style type="text/css">
-      .c3, .c1, .c0, .c8, .c10 {
+      .c0 {
         border: 1pt solid black;
         margin: auto;
         background-color: #c9daf8;
         width: 157.5pt;
-      }
-
-      .c12 {
-        padding-top: 0pt;
-        padding-bottom: 0pt;
-        line-height: 1.15;
-        orphans: 2;
-        widows: 2;
-        text-align: left;
-      }
-
-      .c4 {
-        text-decoration: none;
-        margin: auto;
-        font-size: 11pt;
-        font-family: "Georgia";
-      }
-
-      .c13 {
-        text-align: left;
-      }
-
-      .c11 {
-        border-spacing: 0;
-        border-collapse: collapse;
-        margin: auto;
-      }
-
-      .c14 {
-        background-color: #ffffff;
-        max-width: 468pt;
-      }
-
-      .c7 {
-        font-family: "Georgia";
       }
 
       .c9 {
@@ -46,375 +11,375 @@
       }
 
       .c6 {
-        background-color: #c9daf8;
+        background-color: #586782 !important;
       }
     </style>
 
-    <span class="c4">WEALTH = CREDITS (Pg 204 Table 7-1)</span>
-    <table class="c11">
+    WEALTH = CREDITS (Pg 204 Table 7-1)
+    <table class="c01">
       <tbody>
         <tr class="c5">
           <td class="c0 c9">
-            <span class="c4">Purchase DC</span>
-          </td>
-          <td class="c8 c9">
-            <span class="c4">Credit Equivalent</span>
+            Purchase DC
           </td>
           <td class="c0 c9">
-            <span class="c4">Purchase DC</span>
+            Credit Equivalent
           </td>
-          <td class="c10 c9">
-            <span class="c4">Credit Equivalent</span>
+          <td class="c0 c9">
+            Purchase DC
           </td>
-        </tr>
-        <tr class="c5">
-          <td class="c0">
-            <span class="c4">1</span>
-          </td>
-          <td class="c8">
-            <span class="c7">&#9566;350</span>
-          </td>
-          <td class="c0 c6">
-            <span class="c4">26</span>
-          </td>
-          <td class="c1">
-            <span class="c7">&#9566;1,200,000</span>
-          </td>
-        </tr>
-        <tr class="c5">
-          <td class="c0 c6">
-            <span class="c4">2</span>
-          </td>
-          <td class="c3">
-            <span class="c7">&#9566;500</span>
-          </td>
-          <td class="c0">
-            <span class="c4">27</span>
-          </td>
-          <td class="c10">
-            <span class="c7">&#9566;1,500,000</span>
+          <td class="c0 c9">
+            Credit Equivalent
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">3</span>
+            1
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;1,200</span>
+          <td class="c0">
+            &#9566;350
           </td>
           <td class="c0 c6">
-            <span class="c4">28</span>
+            26
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;2,000,000</span>
+          <td class="c0 c6">
+            &#9566;1,200,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">4</span>
+            2
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;2,000</span>
+          <td class="c0 c6">
+            &#9566;500
           </td>
           <td class="c0">
-            <span class="c4">29</span>
+            27
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;2,750,000</span>
+          <td class="c0">
+            &#9566;1,500,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">5</span>
+            3
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;3,000</span>
+          <td class="c0">
+            &#9566;1,200
           </td>
           <td class="c0 c6">
-            <span class="c7">30</span>
+            28
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;3,500,000</span>
+          <td class="c0 c6">
+            &#9566;2,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c7">6</span>
+            4
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;4,000</span>
+          <td class="c0 c6">
+            &#9566;2,000
           </td>
           <td class="c0">
-            <span class="c4">31</span>
+            29
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;5,000,000</span>
+          <td class="c0">
+            &#9566;2,750,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">7</span>
+            5
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;5,500</span>
+          <td class="c0">
+            &#9566;3,000
           </td>
           <td class="c0 c6">
-            <span class="c4">32</span>
+            30
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;6,500,000</span>
+          <td class="c0 c6">
+            &#9566;3,500,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">8</span>
+            6
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;7,000</span>
+          <td class="c0 c6">
+            &#9566;4,000
           </td>
           <td class="c0">
-            <span class="c4">33</span>
+            31
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;9,000,000</span>
+          <td class="c0">
+            &#9566;5,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">9</span>
+            7
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;9,000</span>
+          <td class="c0">
+            &#9566;5,500
           </td>
           <td class="c0 c6">
-            <span class="c4">34</span>
+            32
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;12,000,000</span>
+          <td class="c0 c6">
+            &#9566;6,500,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">10</span>
+            8
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;12,000</span>
+          <td class="c0 c6">
+            &#9566;7,000
           </td>
           <td class="c0">
-            <span class="c4">35</span>
+            33
           </td>
-          <td class="c10">
-            <span class="c4">&#9566;15,000,000</span>
+          <td class="c0">
+            &#9566;9,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">11</span>
+            9
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;15,000</span>
+          <td class="c0">
+            &#9566;9,000
           </td>
           <td class="c0 c6">
-            <span class="c4">36</span>
+            34
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;20,000,000</span>
+          <td class="c0 c6">
+            &#9566;12,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">12</span>
+            10
           </td>
-          <td class="c3">
-            <span class="c4">&#9566;20,000</span>
+          <td class="c0 c6">
+            &#9566;12,000
           </td>
           <td class="c0">
-            <span class="c4">37</span>
+            35
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;27,500,000</span>
+          <td class="c0">
+            &#9566;15,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">13</span>
+            11
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;27,500</span>
+          <td class="c0">
+            &#9566;15,000
           </td>
           <td class="c0 c6">
-            <span class="c4">38</span>
+            36
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;35,000,000</span>
+          <td class="c0 c6">
+            &#9566;20,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">14</span>
+            12
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;35,000</span>
+          <td class="c0 c6">
+            &#9566;20,000
           </td>
           <td class="c0">
-            <span class="c4">39</span>
+            37
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;50,000,000</span>
+          <td class="c0">
+            &#9566;27,500,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">15</span>
+            13
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;50,000</span>
+          <td class="c0">
+            &#9566;27,500
           </td>
           <td class="c0 c6">
-            <span class="c4">40</span>
+            38
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;65,000,000</span>
+          <td class="c0 c6">
+            &#9566;35,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">16</span>
+            14
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;65,000</span>
+          <td class="c0 c6">
+            &#9566;35,000
           </td>
           <td class="c0">
-            <span class="c4">41</span>
+            39
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;90,000,000</span>
+          <td class="c0">
+            &#9566;50,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">17</span>
+            15
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;90,000</span>
+          <td class="c0">
+            &#9566;50,000
           </td>
           <td class="c0 c6">
-            <span class="c4">42</span>
+            40
           </td>
-          <td class="c1">
-            <span class="c7">&#9566;120,000,000</span>
+          <td class="c0 c6">
+            &#9566;65,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">18</span>
+            16
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;120,000</span>
+          <td class="c0 c6">
+            &#9566;65,000
           </td>
           <td class="c0">
-            <span class="c4">43</span>
+            41
           </td>
-          <td class="c10">
-            <span class="c7">&#9566;150,000,000</span>
+          <td class="c0">
+            &#9566;90,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">19</span>
+            17
           </td>
-          <td class="c8">
-            <span class="c7">&#9566;150,000</span>
+          <td class="c0">
+            &#9566;90,000
           </td>
           <td class="c0 c6">
-            <span class="c4">44</span>
+            42
           </td>
-          <td class="c1">
-            <span class="c4">&#9566;200,000,000</span>
+          <td class="c0 c6">
+            &#9566;120,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">20</span>
+            18
           </td>
-          <td class="c3">
-            <span class="c7">&#9566;200,000</span>
+          <td class="c0 c6">
+            &#9566;120,000
           </td>
           <td class="c0">
-            <span class="c4">45</span>
+            43
           </td>
-          <td class="c10">
-            <span class="c4">&#9566;275,000,000</span>
+          <td class="c0">
+            &#9566;150,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">21</span>
+            19
           </td>
-          <td class="c8">
-            <span class="c4">&#9566;275,000</span>
+          <td class="c0">
+            &#9566;150,000
           </td>
           <td class="c0 c6">
-            <span class="c4">46</span>
+            44
           </td>
-          <td class="c1">
-            <span class="c4">&#9566;350,000,000</span>
+          <td class="c0 c6">
+            &#9566;200,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">22</span>
+            20
           </td>
-          <td class="c3">
-            <span class="c4">&#9566;350,000</span>
+          <td class="c0 c6">
+            &#9566;200,000
           </td>
           <td class="c0">
-            <span class="c4">47</span>
+            45
           </td>
-          <td class="c10">
-            <span class="c4">&#9566;500,000,000</span>
+          <td class="c0">
+            &#9566;275,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">23</span>
+            21
           </td>
-          <td class="c8">
-            <span class="c4">&#9566;500,000</span>
+          <td class="c0">
+            &#9566;275,000
           </td>
           <td class="c0 c6">
-            <span class="c4">48</span>
+            46
           </td>
-          <td class="c1">
-            <span class="c4">&#9566;650,000,000</span>
+          <td class="c0 c6">
+            &#9566;350,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0 c6">
-            <span class="c4">24</span>
+            22
           </td>
-          <td class="c3">
-            <span class="c4">&#9566;650,000</span>
+          <td class="c0 c6">
+            &#9566;350,000
           </td>
           <td class="c0">
-            <span class="c4">49</span>
+            47
           </td>
-          <td class="c10">
-            <span class="c4">&#9566;900,000,000</span>
+          <td class="c0">
+            &#9566;500,000,000
           </td>
         </tr>
         <tr class="c5">
           <td class="c0">
-            <span class="c4">25</span>
+            23
           </td>
-          <td class="c8">
-            <span class="c4">&#9566;900,000</span>
+          <td class="c0">
+            &#9566;500,000
           </td>
           <td class="c0 c6">
-            <span class="c4">50</span>
+            48
           </td>
-          <td class="c1">
-            <span class="c4">&#9566;1,200,000,000</span>
+          <td class="c0 c6">
+            &#9566;650,000,000
+          </td>
+        </tr>
+        <tr class="c5">
+          <td class="c0 c6">
+            24
+          </td>
+          <td class="c0 c6">
+            &#9566;650,000
+          </td>
+          <td class="c0">
+            49
+          </td>
+          <td class="c0">
+            &#9566;900,000,000
+          </td>
+        </tr>
+        <tr class="c5">
+          <td class="c0">
+            25
+          </td>
+          <td class="c0">
+            &#9566;900,000
+          </td>
+          <td class="c0 c6">
+            50
+          </td>
+          <td class="c0 c6">
+            &#9566;1,200,000,000
           </td>
         </tr>
     </table>

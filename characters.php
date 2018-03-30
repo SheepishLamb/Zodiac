@@ -75,12 +75,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg1" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- Character 1 - End -->
 				  
@@ -113,12 +115,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg2" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- Character 2 - End -->
 				  
@@ -150,12 +154,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg3" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- Character 3 - End -->
 				  
@@ -187,12 +193,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg4" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- Character 4 - End -->
 				  
@@ -224,12 +232,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg5" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- Character 5 - End -->
 				  
@@ -301,13 +311,15 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Black</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Summary</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg51" class="img" src="companylogo.png">
 				  <b>A man known as “The Silent”. (This is mostly because when a problem arises in the district, he prefers action over conversation.)
 				  <br/>After an early life of crime, living on the streets of Beijing, Deigo Kù is the current leader of the Xicheng Hub. He oversees the mission assignments and rank promotions within the Hub. All ranks Year One through Five report to him. He lives in the top of the Palace of Heavenly Purity, and can usually be found in The Hub during operational hours.</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- NPC 1 - End -->
 				  
@@ -339,12 +351,14 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Bluish-Grey</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Summary</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg6" class="img" src="companylogo.png">
 				  <b>The Hub's Supplier. Grandfather Clock can always be found in Fengxian Hall. He is affectionately named "Grandfather Clock" for the near-eccentric amount of cuckoo clocks and watches that adorn the walls and shelves of his shop. The Clocks (Grandfather and Grandmother Clock) both live in the back of the Hall, and have dedicated their efforts toward supplying Xicheng Hub with whatever bits and bobs they require, often trading with the Beijing Buddhists in exchange for favors from the Hub members. Grandfather Clock is the oldest member of the Xicheng Hub, but dispite his age, he seems to know his way around the electronic items the members equipt.</b></li>
                   </ul>
+				  </div>
 				  </div>
 				  <!-- NPC 2 - End -->
 				  
@@ -376,58 +390,17 @@
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Green</td>
 				</table>
 				
-				<b style="font-size: 18pt;">Summary</b>
-                  <ul style="font-size: 10pt;">
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
 				  <img id="chimg7" class="img" src="companylogo.png">
 				  <b>The Hub's Supplier. Married to Grandfather Clock. Not much is known about her, except that she remembers every guild member's birthday and always offers tea and cookies to any visitors.</b></li>
                   </ul>
 				  </div>
+				  </div>
 				  <!-- NPC 3 - End -->
 				  
-				  <!-- NPC 4 -->				  
-				  <div id="npc4a" class="tab" style="display: none;">				
-				<table style="font-size: 12pt; width: 625px;">
-				<tr>
-				<td>Race 4
-				</td>
-				<td>Class/Level
-				</td>
-				<td>Alignment
-				</td>
-				<td>Residence
-				</td>
-				</tr>
-				<tr>
-				<td>Occupation
-				</td>
-				<td>Date of Birth
-				</td>
-				<td>Nationality
-				</td>
-				<td>Gender
-				</td>
-				</tr>
-				<tr>
-				<td>Age
-				</td>
-				<td>Weight/Height
-				</td>
-				<td>Hair
-				</td>
-				<td>Eyes
-				</td>
-				</tr>
-				</table>
-				
-				<b style="font-size: 18pt;">Backstory</b>
-                  <ul style="font-size: 10pt;">
-				  <li class="chparagraph">
-				  <img id="chimg8" class="img" src="companylogo.png">
-				  <b>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.</b></li>
-                  </ul>
-				  </div>
-				  <!-- NPC 4 - End -->
 				  
 
 </div>

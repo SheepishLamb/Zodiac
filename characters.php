@@ -525,6 +525,7 @@ $(document).ready(function() {
 	width: 650px;
 	list-style: none;
 	margin: auto;
+	font-size: 11pt;
 }
 
 .img {

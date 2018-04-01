@@ -1,4 +1,4 @@
-<div hidden id="shcontainer">
+<div id="shcontainer">
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Shop</h1>			
 			
     <div class="shparagraph">

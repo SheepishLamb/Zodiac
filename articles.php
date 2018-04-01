@@ -39,8 +39,8 @@
  <div hidden class="article" id="green" style="color: #8fde39;">
  <h1 class="artcolor">G̻̘̳͑̓ͬͬ̆͑̅r̊͏̫͇̝̠͓̞̟e̝ȇ̴̫̻̝̱̣ͬͭͦ͌̅̍n̠̥͇ͣ͊͂̎ͭ̓ͩͅ</h1>
 <div class="artcontainer">
+<div class="artclose">X</div>	
 <h1 style="font-family: 'Unica One', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">"Article Title"</h1>			
-	<div class="artclose">X</div>		
      <div class="artparagraph">								
 		"Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense."
 				  </div>
@@ -51,7 +51,6 @@
 				   <!-- Fuchsia -->
  <div hidden class="article" id="fuchsia" style="color: fuchsia;">
  <h1 class="artcolor">F҉u͖̰͇͆̊́c̨̪̼̬ͤ̎̊͐ͫ̀̎ḫ̴͂̎̈si͓̗̣͇̰͋ͦa̢̱̖̪̥͐</h1>
- <div class="artclose">X</div>
 <div id="fuchsia1">
 				  </div>
 				  <!-- Fuchsia - end -->
@@ -159,8 +158,7 @@ color: #8fde39;
     padding: 5px;
     position: relative;
     font-family: Simsun;
-    width: 650px;
-    max-height: 500px;
+    width: 750px;
     z-index: 1;
     border: solid white 1px;
     box-shadow: rgba(0, 0, 0, .8) 0 2px 8px;
@@ -188,9 +186,9 @@ color: #8fde39;
 }
 
 .artclose {
-	position: absolute;
-    top: 10px;
-    right: 10px;
+    position: fixed;
+    top: 120px;
+    right: 200px;
     font-weight: bold;
     font-size: 14pt;
 }

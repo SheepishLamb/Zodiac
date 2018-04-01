@@ -24,17 +24,17 @@
 				  <!-- Mission 1 - end -->
 				  
 				  <!-- Mission 2 -->
-	<div hidden>
+	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; Mission 2 &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Scrap It! Scrap It Good!" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
 				<div style="text-align: center;">Status: <span class="open">Open</span>
-				<br/>Reward: ╞0000</div>
-                  <ul style="font-size: 10pt;">
-				  <li class="contact">Peter Piper picked a peck of pickled peppers.</li>
-				  <li class="details">Waluigi something something.</li>
-				  <li class="bonus">Hello my baby, hello my honey. Hello my ragtime, summertime gal.</li>
+				<br/>Reward: ╞500</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Grandfather Clock @ Xicheng Hub</li>
+				  <li class="details">How do I submit a mission? Just tell them I need scrap from the scrap yard. Yes. Thanks.</li>
+				  <li class="bonus">Bonus Reward: ╞500 - Uuhh, I dunno. I guess the cafeteria also needs some milk and eggs from the boys out at Chunshan Dairy Farm.</li>
                   </ul>
 				  
 				  </div>
@@ -43,17 +43,55 @@
 				  <!-- Mission 2 - end -->
 				  
 				  <!-- Mission 2 -->
-	<div hidden>
+	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; Mission 3 &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span class="closed">Closed</span>
-				<br/>Reward: ╞0000</div>
-                  <ul style="font-size: 10pt;">
-				  <li class="contact">Peter Piper picked a peck of pickled peppers.</li>
-				  <li class="details">Waluigi something something.</li>
-				  <li class="bonus">Hello my baby, hello my honey. Hello my ragtime, summertime gal.</li>
+				<div style="text-align: center;">Status: <span class="open">Open</span>
+				<br/>Reward: ╞5000</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Jimothy Ticket @ China Teenagers and Childrens Fund</li>
+				  <li class="details">Someone has reported strange activity at the local orphanage. The only person willing to talk is a young girl. Visit the orphanage and question the girl.</li>
+				  <li class="bonus">Bonus Reward: ╞2500 - Solve the issue for the orphanage.</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 2 - end -->
+				  
+				  <!-- Mission 2 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Housekeeping!" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="open">Open</span>
+				<br/>Reward: ╞6000</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
+				  <li class="details">A gang has taken over one of the Rolatide bottling factories and is keeping hostages. Clean out the factory and report back.</li>
+				  <li class="bonus">Bonus Reward: ╞3000 - Save all the hostages!</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 2 - end -->
+				  
+				  <!-- Mission 2 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Who Let The Xuhai Out?" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="open">Open</span>
+				<br/>Reward: ╞10000</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Deveraux Thespian @ Beijing Museum of Natural History</li>
+				  <li class="details">The Relic of Xuhai has disappeared from the Beijing Museum of Natural History. Meet with the curator, Deveraux Thespian.</li>
+				  <li class="bonus">Bonus Reward: ╞5000 - Recover the artifact and return it to the museum IN ONE PIECE.</li>
                   </ul>
 				  
 				  </div>

@@ -20,13 +20,14 @@
 	  </div>
  
  <!-- Menu -->
- <table style="margin: auto; padding-right: 30px; padding-top: 25px;">
+ <table style="margin: auto; padding-right: 30px; top: -10px; position: relative;">
  <tr>
- <td id="sessions" class="menu" style="left: -100px; color: #5384ff;"><b>Sessions</b></td>
- <td id="characters" class="menu" style="left: -50px; color: #cf7fff;"><b>Characters</b></td>
- <td id="missions" class="menu" style="left: 0px; color: #8fde39;"><b>Missions</b></td>
+ <td id="sessions" class="menu" style="left: -150px; color: #5384ff;"><b>Sessions</b></td>
+ <td id="characters" class="menu" style="left: -100px; color: #cf7fff;"><b>Characters</b></td>
+ <td id="missions" class="menu" style="left: -50px; color: #8fde39;"><b>Missions</b></td>
  <td id="items" class="menu" style="right: -50px; color: #fd6293;"><b>Items</b></td>
  <td id="maps" class="menu" style="right: -100px; color: #ffab78;"><b>Settings</b></td>
+ <td id="shop" class="menu" style="right: -150px; color: #fff578;"><b>Shop</b></td>
 </tr>
 </table>
 <!-- Menu - End -->
@@ -38,6 +39,7 @@
 <div style="display: none;" id="missions1"></div>
 <div style="display: none;" id="items1"></div>
 <div style="display: none;" id="maps1"></div>
+<div style="display: none;" id="shop1"></div>
  
 
   <!-- Header - Title -->
@@ -65,6 +67,7 @@ $('#sessions1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
   var x = document.getElementById("characters1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -78,6 +81,7 @@ $("#sessions").click(function() {
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
   var x = document.getElementById("sessions1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -91,6 +95,7 @@ $('#sessions1').css("display", "none");
 	$('#characters1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
   var x = document.getElementById("items1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -104,6 +109,7 @@ $('#sessions1').css("display", "none");
 	$('#characters1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
   var x = document.getElementById("maps1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -117,7 +123,23 @@ $('#sessions1').css("display", "none");
 	$('#characters1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
+	$('#shop1').css("display", "none");
   var x = document.getElementById("missions1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+});
+
+//shop
+$("#shop").click(function() {
+$('#sessions1').css("display", "none");
+	$('#characters1').css("display", "none");
+	$('#items1').css("display", "none");
+	$('#maps1').css("display", "none");
+	$('#missions1').css("display", "none");
+  var x = document.getElementById("shop1");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -149,6 +171,7 @@ $(document).ready(function() {
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
     });
 	
 });
@@ -161,6 +184,7 @@ $(document).ready(function() {
 	$("#items1").load("items.php");
 	$("#maps1").load("maps.php");
 	$("#missions1").load("missions.php");
+	$("#shop1").load("shop.php");
 	
       $('.majorpoints').click(function() {
         $(this).find('.hiders').toggle();

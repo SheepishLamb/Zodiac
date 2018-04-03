@@ -1,4 +1,4 @@
-<table style="margin: auto; padding-right: 140px;">
+<table style="margin: auto; position: relative; padding-right: 350px; top: -10px;">
  <tbody><tr>
  <td id="chpcs" class="chmenu" style="left: -125px; color: #cf7fff;"><b>PCs</b></td>
  <td id="chnpcs" class="chmenu" style="left: -90px; color: #cf7fff;"><b>NPCs</b></td>
@@ -73,6 +73,7 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'11"</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Dirty Blonde</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">USB</td>
 				</table>
 				
 				<div style="text-align: center;">
@@ -113,6 +114,7 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Rollershoes</td>
 				</table>
 				
 				<div style="text-align: center;">
@@ -152,6 +154,7 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'10"</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Black</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Smartwatch</td>
 				</table>
 				
 				<div style="text-align: center;">
@@ -191,6 +194,7 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Dice</td>
 				</table>
 				
 				<div style="text-align: center;">
@@ -230,6 +234,7 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Rolactid</td>
 				</table>
 				
 				<div style="text-align: center;">
@@ -279,6 +284,7 @@
       <li id="npc1"><a href="#npc1a">Diego Kù</a></li>
 	  <li id="npc2"><a href="#npc2a">Grandfather Clock</a></li>
 	  <li id="npc3"><a href="#npc3a">Grandmother Clock</a></li>
+	  <li id="npc4"><a href="#npc4a">Franklin Barry</a></li>
     </ul>
 	
 	<div class="tab-content">
@@ -401,6 +407,45 @@
 				  </div>
 				  <!-- NPC 3 - End -->
 				  
+				  <!-- NPC 4 -->
+     <div id="npc4a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Franklin Barry</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">?? - 6</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Chaotic Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33; text-decoration: line-through;">Xicheng Hub</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Unemployed</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2047</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Paris, France</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">French</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">30s</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Average Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'8"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Black, Curly</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg7" class="img" src="companylogo.png">
+				  <b>Previous Year Two at the Xicheng Hub, now unaffiliated with the Hub after being caught selling a supply cache to an unknown buyer in order to save the Baita Si Buddhist Temple from Rolatide Incorporated.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 4 - End -->
+				  
 				  
 
 </div>
@@ -484,7 +529,6 @@ $(document).ready(function() {
     position: relative;
     font-family: Simsun;
     width: 750px;
-    max-height: 500px;
     z-index: 1;
     border: solid white 1px;
     box-shadow: rgba(0, 0, 0, .8) 0 2px 8px;

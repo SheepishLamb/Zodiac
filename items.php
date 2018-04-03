@@ -31,6 +31,11 @@
 <img id="itimg5b" class="itimgb" src="rollershoes.png">
 </div>
 
+<div hidden id="itimg6a" class="itimga">
+<div class="itimgclose">X</div>
+<img id="itimg6b" class="itimgb" src="glasses.png">
+</div>
+
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Items</h1>			
 		
@@ -42,6 +47,7 @@
 			<option>Lucky Dice</option>
 			<option>Rolactid</option>
 			<option>Rollershoes</option>
+			<option>Smartglasses</option>
 			<option>Smartwatch</option>
 			<option>USB</option>
 			
@@ -107,7 +113,8 @@
 				<br/>_______
 				<br/>_______
 				<br/>_______
-				<br/>_______</div>
+				<br/>_______
+</div>
 </div>	
 
 <div hidden id="item5" style="text-align: center; margin: 50px 0px;">
@@ -125,6 +132,25 @@
 				<br/>Yellow
 				<br/>White
 				<br/>Red
+</div>
+</div>	
+
+<div hidden id="item6" style="text-align: center; margin: 50px 0px;">
+<img id="itimg6" class="itimg" src="glasses.png">
+				
+				<div class="ittitle">Smartglasses</div>
+				<div class="itparagraph">
+				Augmented Reality Glasses
+				<br/>Gives player +3 Spellcraft/Trapsense & the ability to translate languages. Pay to unlock more languages.
+				</div>
+				<div style="text-align: center;">Languages:
+				<br/>Russian
+				<br/>_______
+				<br/>_______
+				<br/>_______
+				<br/>_______
+				<br/>_______
+				<br/>_______
 </div>
 </div>			
 				  
@@ -164,6 +190,11 @@ $(function() {
       } else if ($(this).val() != "Credits") {
         $("#item0").prop("hidden", true);
       }
+	  if ($(this).val() == "Smartglasses") {
+        $("#item6").prop("hidden", false);
+      } else if ($(this).val() != "Smartglasses") {
+        $("#item6").prop("hidden", true);
+      }
     });
 	
 	$(function() {
@@ -187,6 +218,9 @@ $(function() {
 	});
 	$('#itimg5').click(function(e) {
 		$('#itimg5a').toggle();
+	});
+	$('#itimg6').click(function(e) {
+		$('#itimg6a').toggle();
 	});
 	  $('.itimgclose').click(function(e) {
 		$(this).parent('.itimga').css('display', 'none');

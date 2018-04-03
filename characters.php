@@ -594,7 +594,7 @@ $(document).ready(function() {
 }
 .tab-links li a {
   text-decoration: none;
-  font-size: 18pt;
+  font-size: 16pt;
   color: #8fde39;
   padding: 5px;
 }

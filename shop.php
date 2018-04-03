@@ -2,7 +2,7 @@
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Shop</h1>			
 			
     <div class="shparagraph">
-	<table>
+	<table style="margin: auto;">
 	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
 	<tr><td>1</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
 	<tr><td>2</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
@@ -40,6 +40,7 @@
 	list-style: none;
 	margin: auto;
 	font-size: 11pt;
+	text-align: center;
 }
 
 </style>

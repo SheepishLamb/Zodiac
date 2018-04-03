@@ -40,12 +40,14 @@
  <h1 class="artcolor">F҉u͖̰͇͆̊́c̨̪̼̬ͤ̎̊͐ͫ̀̎ḫ̴͂̎̈si͓̗̣͇̰͋ͦa̢̱̖̪̥͐</h1>
 <div id="fuchsia1">
 				  </div>
+				  </div>
 				  <!-- Fuchsia - end -->
 				  
 				  <!-- inchworm -->
  <div hidden class="article" id="inchworm" style="color: fuchsia;">
  <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
 <div id="inchworm1">
+				  </div>
 				  </div>
 				  <!-- inchworm - end -->
 				  

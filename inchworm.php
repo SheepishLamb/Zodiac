@@ -1,6 +1,6 @@
 <div class="artcontainer">
 <div class="artclose">X</div>
-<h1 style="font-family: 'Unica One', cursive; font-size: 92px; text-align: center; line-height: 50pt; font-weight: 400;">Transcription 273
+<h1 style="font-family: 'VT323', monospace; font-size: 92px; text-align: center; line-height: 50pt; font-weight: 400;">Transcription 273
 <br/>Meeting Date 4-26-2078
 <br/>R̪̘̫̯̼ͤͭ̒̃͆ͨ̀ Member Discussion
 <br/>Beijing, China

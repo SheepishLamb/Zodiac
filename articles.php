@@ -34,19 +34,6 @@
 	  </tr>
 	  </table>
 </div>
-
- <!-- Green -->
- <div hidden class="article" id="green" style="color: #8fde39;">
- <h1 class="artcolor">G̻̘̳͑̓ͬͬ̆͑̅r̊͏̫͇̝̠͓̞̟e̝ȇ̴̫̻̝̱̣ͬͭͦ͌̅̍n̠̥͇ͣ͊͂̎ͭ̓ͩͅ</h1>
-<div class="artcontainer">
-<div class="artclose">X</div>	
-<h1 style="font-family: 'Unica One', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">"Article Title"</h1>			
-     <div class="artparagraph">								
-		"Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense."
-				  </div>
-				  </div>
-				  </div>
-				  <!-- Green - end -->
 				  
 				   <!-- Fuchsia -->
  <div hidden class="article" id="fuchsia" style="color: fuchsia;">
@@ -54,6 +41,13 @@
 <div id="fuchsia1">
 				  </div>
 				  <!-- Fuchsia - end -->
+				  
+				  <!-- inchworm -->
+ <div hidden class="article" id="inchworm" style="color: fuchsia;">
+ <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
+<div id="inchworm1">
+				  </div>
+				  <!-- inchworm - end -->
 				  
 				  <!-- turquoise -->
  <div hidden class="article" id="turquoise" style="color: turquoise;">
@@ -108,13 +102,16 @@ $(document).ready(function() {
 	  } else if ($("#logopass").val() == "fuchsia") {
 		  $('#login').css('display', 'none');
 		  $('#fuchsia').delay(50).fadeIn();
+		  } else if ($("#logopass").val() == "inchworm") {
+		  $('#login').css('display', 'none');
+		  $('#inchworm').delay(50).fadeIn();
 	  } else if ($("#logopass").val() == "turquoise") {
 		  $('#login').css('display', 'none');
 		  $('#turquoise').delay(50).fadeIn();
       } else if ($("#logopass").val() == "orange") {
 		  $('#login').css('display', 'none');
 		  $('#orange').delay(50).fadeIn();
-	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "turquoise" || $("#logopass").val() != "orange") {
+	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "turquoise" || $("#logopass").val() != "orange") {
 		  $('#login').css('display', 'none');
 		  $('#fail').delay(50).fadeIn();
 	  }
@@ -122,6 +119,7 @@ $(document).ready(function() {
 	
 	$(function() {
 	$("#fuchsia1").load("fuchsia.php");
+	$("#inchworm1").load("inchworm.php");
 	});
 	
 	document.getElementById('failclose').onclick = function() {

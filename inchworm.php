@@ -1,12 +1,12 @@
 <div class="artcontainer">
 <div class="artclose">X</div>
-<h1 style="font-family: 'VT323', monospace; font-size: 92px; text-align: center; line-height: 50pt; font-weight: 400;">Transcription 273
+<h1 style="font-family: 'VT323', monospace; font-size: 28px; text-align: center; line-height: 20pt; font-weight: 400;">Transcription 273
 <br/>Meeting Date 4-26-2078
 <br/>R̪̘̫̯̼ͤͭ̒̃͆ͨ̀ Member Discussion
 <br/>Beijing, China
 <br/><br/>
 Prepared by: B.̬͈̋͘ͅG̣̩̯ͫ̔ͬ</h1>
-<div class="artparagraph" style="text-align: justify; background: linear-gradient(to bottom, #8880 80%, #7ec1677a 95%, #8880 100%); font-style: italic; font-size: 13pt;">
+<div class="artparagraph" style="text-align: justify; background: linear-gradient(to bottom, #8880 80%, #0000007a 95%); font-style: italic; font-size: 13pt;">
 S.L.: Begin time.
 <br/><br/>
 B.G.: Time is currently 9:29am.
@@ -27,11 +27,13 @@ L.M.: Tests? On a wall scroll?
 <br/><br/>
 S.L.: I think I know why Rolatide is interested in these animals, but I can’t know for certain until we have it here. Bolnaldo, did you get a chance to meet Franklin at the Lotus Blue?
 <br/><br/>
-B.G.: Yeah, he has a lead on some supplies for the -̻̹͙̮̦̟̉͛͑̎̽ͯ-̶̹̙͍ͣd̠̜̯̠ͣͦ-̷̺̝̖͍̯̩͛̈́͑ͬ-̺̘͙͛ͥͪ͗̒͞w̗̭̺̥͙̯̥ͭ̆ͮ̂̓̑a͉̼̗̯͊ͅd̘̥̝r͕͖͒̐ͬ̊̾͌͝-ͯ̿ͨ̅̈͏̫̭̻̠̤͓̪-̩̳̄̏͜-w͎̥̬͓̻̗ͩ̉̎r̞̼ẅ̮̠̥͇̗́ͯͧ͊͝j̻̺͋̀̑̕4͍̝͙̘̯ͪ̏ͭͩj̺͚͈͈̻̣̈͛̑-͉̜̪͈̭̻-̧̟͕̟̖͔̯̿-̫̦͔̦̤̩̎͆̓̌w̪͕̖ͫe̵͎͇͕͎̥͇͂q͎̬̘̼̆͐̀̚j͔̩ͩ̂̇ͨͧͅé̼͕̯̤̠̙k̥̼͇̰̭ͥ́̅̄ͬ̐́q̴̣̼̹͎͕͇̰̄̓j̬͖͔͝l̇n̘͍̈́̽͆ẗ̜͇̟͙̘̩̤́e͉̣k͍͔̤͌̀͌̿͆̕ǰ̗̑͆͂͆̅͑͠n̤͈͕̪̩ͭͭ͛͋̈͛̓ͅé͎̤̰̤̥͍4̮̯̞
-<br/>-̆̐̍̄ͧ͞-̲͚͈̜͙̳̍̿ͫ͛͗̊-̜̼̙̅̒ͮ̀̉̅-̈́ͯ̀͊̀̚-͕̙̺͓̹̰̱̑͊ͬ̍̆͆ ̪̓ͦͫ̇ͣ̆ͤ-̘͚̤̰͙̆ͨ-̭̖̼̥͉͙̻̅́ͫͨ̏̌-͎͉̙͙̘̤͕̐̿́ ͉͖̫͓̗͈̪ͯ͐-͓͙̾̉̎̊ͪ͂̊-̜̝͇̥̣͕͇ͨ̑̓͂ ̲̮͉͇̘ͮ͘-̙̟͇̑̉͜ ̛̙̂̆̓ͬͮ̍̈-̠̰--͓̝͎̫̳̩̯
-<br/>̶̙͔̲̬̫̉̿̄ͦ-̛̤̗̐̒ͥ̑͋͗-̵̹̤̖̼̼͈ͮ̈ͥ̚ ̽͛͌̂͏͙̱̱̗-̬̞͖͞-͕̯̾͑ͦͭ́ ̵̳̪̪́́̓
-̫̝<br/>͚-̙͍̯͖͕̭̋-̷͎̱ͫ̇͐̿
-<br/><br/><br/><br/>
+B.G.: Yeah, he has a lead on some supplies for the -̻̹͙̮̦̟̉͛͑̎̽ͯ-̶̹̙͍ͣd̠̜̯̠ͣͦ-̷̺̝̖͍̯̩͛̈́͑ͬ-͛ͥͪ
+<br/><div style="text-align: center;">̺̘͙͗̒͞w̗̭̺̥͙̯̥ͭ̆ͮ̂̓̑a͉̼̗̯͊ͅd̘̥̝r͕͖͒̐ͬ̊̾͌͝-ͯ̿
+<br/>ͨ̅̈͏̫̭̻̠̤&nbsp;͓̪-̩̳̄̏͜-w͎̥̬͓̻̗ͩ̉̎r̞̼ẅ̮̠̥͇̗́ͯͧ͊͝j̻̺͋̀̑̕4͍̝͙̘̯ͪ̏ͭͩj̺͚͈͈̻̣̈͛̑-͉̜̪͈̭̻-̧̟͕̟̖͔̯̿-̫̦͔̦̤̩̎͆̓̌w̪͕̖ͫe̵͎͇͕͎̥͇͂q̆͐&nbsp;͎̬̘̼̀̚j͔̩ͩ̂̇ͨͧͅé̼͕̯̤̠̙k̥̼͇̰̭ͥ́̅̄ͬ̐́q̴̣̼̹͎͕͇̰̄̓j̬͖͔͝l̇n̘͍̈́̽͆ẗ̜͇̟͙̘̩̤́e͉̣k͍͔̤͌̀͌̿͆̕ǰ̗̑͆͂͆̅͑͠n̤͈͕̪̩ͭͭ͛͋̈͛̓ͅé͎̤̰̤̥͍4̮̯̞
+<br/>-̆̐̍̄ͧ͞-̲͚͈̜͙̳̍̿ͫ͛͗̊-̜̼̙̅̒ͮ̀̉̅-̈́ͯ&nbsp;̀͊̀̚-͕̙̺͓̹̰̱̑͊ͬ̍̆͆ ̪̓ͦͫ̇ͣ̆ͤ-̘͚̤̰͙̆ͨ-̅́ͫͨ̏&nbsp;̭̖̼̥͉͙̻̌-͎͉̙͙̘̤͕̐̿́ ͉͖̫͓̗͈̪ͯ͐-͓͙̾̉̎̊ͪ͂̊-̜̝͇̥̣͕͇ͨ̑̓͂ ̲̮͉͇̘ͮ͘-̙̟͇̑̉͜ ̛̙̂̆̓ͬͮ̍̈-̠̰--͓̝͎̫̳̩̯
+<br/>̶̙͔̲̬̫̉̿̄ͦ-̐̒ͥ̑͋&nbsp;̛̤̗͗-̵̹̤̖̼̼͈ͮ̈ͥ̚ ̽͛͌̂͏͙̱̱̗-̬̞͖͞-͕̯̾͑ͦͭ́ ̵̳̪̪́́̓
+̫̝<br/>͚-̙̋&nbsp;͍̯͖͕̭-ͫ̇͐&nbsp;̷͎̱̿</div>
+<br/><br/>
 File corrupted.
 	 </div>
 	 </div>

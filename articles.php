@@ -44,7 +44,7 @@
 				  <!-- Fuchsia - end -->
 				  
 				  <!-- inchworm -->
- <div hidden class="article" id="inchworm" style="color: fuchsia;">
+ <div hidden class="article" id="inchworm" style="color: #44bdac;">
  <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
 <div id="inchworm1">
 				  </div>

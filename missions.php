@@ -7,10 +7,10 @@
 				  <!-- Mission 2 -->
 	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Scrap It! Scrap It Good!" &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Scrap It! Scrap It Good!" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span class="open">Open</span>
+				<div style="text-align: center;">Status: <span class="closed">Open</span>
 				<br/>Reward: ╞500</div>
 				  <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Grandfather Clock @ Xicheng Hub</li>

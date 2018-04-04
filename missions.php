@@ -3,25 +3,6 @@
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Missions</h1>			
 		
-	
-	<!-- Mission 1 -->
-	<div>
-              <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Where Dey At Doe?" &nbsp;</b></legend>
-                <div class="hiders" style="display:none">
-				
-				<div style="text-align: center;">Status: <span class="closed">Closed</span>
-				<br/>Reward: ╞1300</div>
-                  <ul style="font-size: 10pt;">
-				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
-				  <li class="details">Franklin Barry has not returned from a supply cache run. Please locate Mr. Barry and report back to Diego Ku for your reward.</li>
-				  <li class="bonus">Bonus Reward: ╞500 - Locate and complete the delivery of the supply cache.</li>
-                  </ul>
-				  
-				  </div>
-				  </fieldset>
-				  </div>
-				  <!-- Mission 1 - end -->
 				  
 				  <!-- Mission 2 -->
 	<div>
@@ -98,6 +79,25 @@
 				  </fieldset>
 				  </div>
 				  <!-- Mission 2 - end -->
+				  
+				  <!-- Mission 1 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Where Dey At Doe?" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="closed">Closed</span>
+				<br/>Reward: ╞1300</div>
+                  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
+				  <li class="details">Franklin Barry has not returned from a supply cache run. Please locate Mr. Barry and report back to Diego Ku for your reward.</li>
+				  <li class="bonus">Bonus Reward: ╞500 - Locate and complete the delivery of the supply cache.</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 1 - end -->
 				  
 
 

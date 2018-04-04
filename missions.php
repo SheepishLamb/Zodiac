@@ -7,11 +7,11 @@
 	<!-- Mission 1 -->
 	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="inprogress">&nbsp; &bull; "Where Dey At Doe?" &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Where Dey At Doe?" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span style="color: red;">Closed</span>
-				<br/>Reward: ╞1000</div>
+				<div style="text-align: center;">Status: <span class="closed">Closed</span>
+				<br/>Reward: ╞1300</div>
                   <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
 				  <li class="details">Franklin Barry has not returned from a supply cache run. Please locate Mr. Barry and report back to Diego Ku for your reward.</li>

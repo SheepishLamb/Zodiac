@@ -32,6 +32,11 @@
 <div class="imgclose">X</div>
 <img id="chimg5b" class="imgb" src="companylogo.png">
 </div>
+
+<div hidden id="chimg5ba" class="imga">
+<div class="imgclose">X</div>
+<img id="chimg5bb" class="imgb" src="companylogo.png">
+</div>
 <!-- chimages - end -->
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Player Characters</h1>			
@@ -43,6 +48,7 @@
 	  <li id="character3"><a href="#character3a">Gustavo Gibson</a></li>
 	  <li id="character4"><a href="#character4a">Bellamy</a></li>
 	  <li id="character5"><a href="#character5a">Steve</a></li>
+	  <li id="character5b"><a href="#character5ba">.</a></li>
     </ul>
 	
 	<div class="tab-content">
@@ -208,9 +214,9 @@
 				  </div>
 				  <!-- Character 4 - End -->
 				  
-				  <!-- Character 5 -->				  
-				  <div id="character5a" class="tab" style="display: none;">		
-<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Steve</div>				  
+				  <!-- Character 5b -->				  
+				  <div id="character5ba" class="tab" style="display: none;">		
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">.</div>				  
 				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
@@ -234,19 +240,19 @@
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
-				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Rolactid</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Smartglasses</td>
 				</table>
 				
 				<div style="text-align: center;">
 				<b style="font-size: 18pt; margin: auto;">Background</b>
 				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
-				  <img id="chimg5" class="img" src="companylogo.png">
+				  <img id="chimg5b" class="img" src="companylogo.png">
 				  <b>...</b></li>
                   </ul>
 				  </div>
 				  </div>
-				  <!-- Character 5 - End -->
+				  <!-- Character 5b - End -->
 				  
 
 </div>
@@ -484,8 +490,8 @@ $(document).ready(function() {
 	$('#chimg5').click(function(e) {
 		$('#chimg5a').toggle();
 	});
-	$('#chimg51').click(function(e) {
-		$('#chimg51a').toggle();
+	$('#chimg5b').click(function(e) {
+		$('#chimg5ba').toggle();
 	});
 	$('#chimg6').click(function(e) {
 		$('#chimg6a').toggle();

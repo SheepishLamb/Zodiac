@@ -10,7 +10,7 @@
                 <legend class="mismajorpointslegend"><b class="inprogress">&nbsp; &bull; "Where Dey At Doe?" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span class="inprogress">In Progress</span>
+				<div style="text-align: center;">Status: <span style="color: red;">Closed</span>
 				<br/>Reward: ╞1000</div>
                   <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>

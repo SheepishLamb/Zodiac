@@ -48,7 +48,7 @@
 	  <li id="character3"><a href="#character3a">Gustavo Gibson</a></li>
 	  <li id="character4"><a href="#character4a">Bellamy</a></li>
 	  <li id="character5"><a href="#character5a">Steve</a></li>
-	  <li id="character5b"><a href="#character5ba">.</a></li>
+	  <li id="character5b"><a href="#character5ba">Broseph McBroheim</a></li>
     </ul>
 	
 	<div class="tab-content">
@@ -216,7 +216,7 @@
 				  
 				  <!-- Character 5b -->				  
 				  <div id="character5ba" class="tab" style="display: none;">		
-<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">.</div>				  
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Broseph McBroheim AKA Tommy P</div>				  
 				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>

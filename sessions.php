@@ -27,16 +27,21 @@
 				  <!-- Date 1 - end -->
 				  
 				  <!-- Date 2 -->
-	<div hidden>
+	<div>
               <fieldset style="border: none;" class="majorpoints">
                 <legend class="majorpointslegend"><b>&nbsp; Session 2 &nbsp;</b></legend>
                 <div class="hidersb" style="display:none">
 				
-				<b>"Session Name"</b>
-                  <ul style="font-size: 10pt;">
-				  <li class="newpage">Peter Piper picked a peck of pickled peppers.</li>
-				  <li class="bug">Waluigi something something.</li>
-				  <li class="change">Hello my baby, hello my honey. Hello my ragtime, summertime gal.</li>
+				<b>"I Get By With A Little Help From My Friends"</b>
+                  <ul style="font-size: 12pt;">
+				  <li class="addition">Date: May 11th, 2078</li>
+				  <li class="newpage">The Group has finished the first mission!</li>
+				  <li class="bug">The Group has survived the first combat!</li>
+				  <li class="change">The ambush was thwarted with the help of Starbuck "Danger" Gonzales and Cornelius Quartermain III, who dropped off another Year One with the Group. They decided to leave their assailents alive, but tied up and waiting for authorities after the thugs spit out another cryptid message. Broseph "Tommy P" McBroheim accompanied the Group on their way back to the Hub to get paid for completing their first mission. Although Franklin Barry has officially cut ties with the Xicheng Hub and sold the supplies they needed, the Group did turn in the 10k Credits he handed over.
+				  <br/>
+				  <br/>Before turning in for the night, Grandfather Clock sent the Group on a fetch quest for some scrap metal, eggs, and milk for another easy thousand credits. What a weird grocery list!
+				  <br/><br/>What awaits the Group in the morning..?
+				  </li>
                   </ul>
 				  
 				  </div>

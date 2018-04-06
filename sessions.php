@@ -37,9 +37,9 @@
 				  <li class="addition">Date: May 11th, 2078</li>
 				  <li class="newpage">The Group has finished the first mission!</li>
 				  <li class="bug">The Group has survived the first combat!</li>
-				  <li class="change">The ambush was thwarted with the help of Starbuck "Danger" Gonzales and Cornelius Quartermain III, who dropped off another Year One with the Group. They decided to leave their assailents alive, but tied up and waiting for authorities after the thugs spit out another cryptid message. Broseph "Tommy P" McBroheim accompanied the Group on their way back to the Hub to get paid for completing their first mission. Although Franklin Barry has officially cut ties with the Xicheng Hub and sold the supplies they needed, the Group did turn in the 10k Credits he handed over.
+				  <li class="change">The ambush was thwarted with the help of Starbuck "Danger" Gonzales and Cornelius Quartermain III, who dropped off another Year One with the Group. They decided to leave their assailants alive, but tied up and waiting for authorities after the thugs spit out another cryptid message. Broseph "Tommy P" McBroheim accompanied the Group on their way back to the Hub to get paid for completing their first mission. Although Franklin Barry has officially cut ties with the Xicheng Hub and sold the supplies they needed, the Group did turn in the 10k Credits he handed over.
 				  <br/>
-				  <br/>Before turning in for the night, Grandfather Clock sent the Group on a fetch quest for some scrap metal, eggs, and milk for another easy thousand credits. What a weird grocery list!
+				  <br/>Before calling it a night, Grandfather Clock sent the Group on a fetch quest for some scrap metal, eggs, and milk for another easy thousand credits. What a weird grocery list!
 				  <br/><br/>What awaits the Group in the morning..?
 				  </li>
                   </ul>

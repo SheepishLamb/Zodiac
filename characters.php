@@ -180,26 +180,26 @@
 				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
-				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Charismatic - 5</td>
 				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
-				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">The Forbidden City</td>
 				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">6-23-2050</td>
-				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Freedom, America</td>
 				</tr>
 				<tr>
-				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">American</td>
 				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
 				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">28</td>
 				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">...</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
-				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
-				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Platinum</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Dope-Ass Contacts</td>
 				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Dice</td>
 				</table>
 				
@@ -214,32 +214,72 @@
 				  </div>
 				  <!-- Character 4 - End -->
 				  
-				  <!-- Character 5b -->				  
-				  <div id="character5ba" class="tab" style="display: none;">		
-<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Broseph McBroheim AKA Tommy P</div>				  
+				  <!-- Character 5 -->				  
+				  <div id="character5a" class="tab" style="display: none;">		
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Steve</div>				  
 				<table style="font-size: 12pt; margin: auto; text-align: center;">
 				<tr>
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
-				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Tough - 5</td>
 				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
-				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">...</td>
-				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">Adventurer</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2053</td>
 				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
-				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">35</td>
 				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">...</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">...</td>
 				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Rolatide</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg5" class="img" src="companylogo.png">
+				  <b>...</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- Character 5 - End -->
+				  
+				  <!-- Character 5b -->				  
+				  <div id="character5ba" class="tab" style="display: none;">		
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Broseph "Tommy P" McBroheim</div>				  
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Strong - 5</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">Military</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">1-1-2052</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">26</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">190lbs</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">6'0"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Brown</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Blue</td>
 				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Smartglasses</td>
 				</table>
 				

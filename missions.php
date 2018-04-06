@@ -7,25 +7,6 @@
 				  <!-- Mission 2 -->
 	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Scrap It! Scrap It Good!" &nbsp;</b></legend>
-                <div class="hiders" style="display:none">
-				
-				<div style="text-align: center;">Status: <span class="closed">Open</span>
-				<br/>Reward: ╞500</div>
-				  <ul style="font-size: 10pt;">
-				  <li class="contact">Contact: Grandfather Clock @ Xicheng Hub</li>
-				  <li class="details">How do I submit a mission? Just tell them I need scrap from the scrap yard. Yes. Thanks.</li>
-				  <li class="bonus">Bonus Reward: ╞500 - Uuhh, I dunno. I guess the cafeteria also needs some milk and eggs from the boys out at Chunshan Dairy Farm.</li>
-                  </ul>
-				  
-				  </div>
-				  </fieldset>
-				  </div>
-				  <!-- Mission 2 - end -->
-				  
-				  <!-- Mission 2 -->
-	<div>
-              <fieldset style="border: none;" class="majorpoints">
                 <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
@@ -91,13 +72,34 @@
                   <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
 				  <li class="details">Franklin Barry has not returned from a supply cache run. Please locate Mr. Barry and report back to Diego Ku for your reward.</li>
-				  <li class="bonus">Bonus Reward: ╞500 - Locate and complete the delivery of the supply cache.</li>
+				  <li class="bonus">Bonus Reward: ╞500 - Locate and complete the delivery of the supply cache.
+				  <br/>(Successful!)</li>
                   </ul>
 				  
 				  </div>
 				  </fieldset>
 				  </div>
 				  <!-- Mission 1 - end -->
+				  
+				  <!-- Mission 2 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Scrap It! Scrap It Good!" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="closed">Closed</span>
+				<br/>Reward: ╞500</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Grandfather Clock @ Xicheng Hub</li>
+				  <li class="details">How do I submit a mission? Just tell them I need scrap from the scrap yard. Yes. Thanks.</li>
+				  <li class="bonus">Bonus Reward: ╞500 - Uuhh, I dunno. I guess the cafeteria also needs some milk and eggs from the boys out at Chunshan Dairy Farm.
+				  <br/>(Successful!)</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 2 - end -->
 				  
 
 

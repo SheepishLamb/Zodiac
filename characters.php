@@ -502,7 +502,7 @@
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
 				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Charismatic - 4<br/>Fast - 3</td>
 				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Neutral Good</td>
-				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33; text-decoration: line-through;">Xicheng Hub</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">The Forbidden City</td>
@@ -541,7 +541,7 @@
 				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
 				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Strong - 5<br/>Tough - 4</td>
 				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Lawful Good</td>
-				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33; text-decoration: line-through;">Starbuck Gonzales</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Starbuck Gonzales</td>
 				</tr>
 				<tr>
 				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">The Forbidden City</td>

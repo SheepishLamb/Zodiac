@@ -48,7 +48,7 @@
 	  <a href="#character3a">Gustavo Gibson</a>
 	  <a href="#character4a">Bellamy</a>
 	  <a href="#character5a">Steve</a>
-	  <a href="#character5ba">Broseph McBroheim</a>
+	  <br/><a href="#character5ba">Broseph McBroheim</a>
     </ul>
 	
 	<div class="tab-content">
@@ -709,7 +709,7 @@ ul a {
     color: #8fde39;
     padding: 5px;
     line-height: 32px;
-    margin: 0px 20px 0px 20px;
+    margin: auto;
     list-style: none;
     background: #0000004f;
 

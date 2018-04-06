@@ -43,12 +43,12 @@
 			
 			<div class="tabs">
     <ul class="tab-links">
-      <li id="character1"><a href="#character1a">Willard Yijun</a></li>
-	  <li id="character2"><a href="#character2a">Qīngtíng</a></li>
-	  <li id="character3"><a href="#character3a">Gustavo Gibson</a></li>
-	  <li id="character4"><a href="#character4a">Bellamy</a></li>
-	  <li id="character5"><a href="#character5a">Steve</a></li>
-	  <li id="character5b"><a href="#character5ba">Broseph McBroheim</a></li>
+      <a href="#character1a">Willard Yijun</a>
+	  <a href="#character2a">Qīngtíng</a>
+	  <a href="#character3a">Gustavo Gibson</a>
+	  <a href="#character4a">Bellamy</a>
+	  <a href="#character5a">Steve</a>
+	  <a href="#character5ba">Broseph McBroheim</a>
     </ul>
 	
 	<div class="tab-content">
@@ -327,10 +327,12 @@
 			
 			<div class="tabs">
     <ul class="tab-links">
-      <li id="npc1"><a href="#npc1a">Diego Kù</a></li>
-	  <li id="npc2"><a href="#npc2a">Grandfather Clock</a></li>
-	  <li id="npc3"><a href="#npc3a">Grandmother Clock</a></li>
-	  <li id="npc4"><a href="#npc4a">Franklin Barry</a></li>
+      <a href="#npc1a">Diego Kù</a>
+	  <a href="#npc2a">Grandfather Clock</a>
+	  <a href="#npc3a">Grandmother Clock</a>
+	  <a href="#npc4a">Franklin Barry</a>
+	  <a href="#npc5a">Starbuck Gonzales</a>
+	  <a href="#npc6a">Cornelius Quartermain III</a>
     </ul>
 	
 	<div class="tab-content">
@@ -492,6 +494,84 @@
 				  </div>
 				  <!-- NPC 4 - End -->
 				  
+				  <!-- NPC 5 -->
+     <div id="npc5a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Starbuck "Danger" Gonzales</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Charismatic - 4<br/>Fast - 3</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Neutral Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33; text-decoration: line-through;">Xicheng Hub</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">The Forbidden City</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Hub Scout</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2053</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">London, England</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">British</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Female</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">25</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Slim/Athletic Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'6"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Purple-Teal Iridescent, Undercut</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Green</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg8" class="img" src="companylogo.png">
+				  <b>Current Year 3 at the Xicheng Hub, the boastful recruit spends her time on the move with her "Sidekick" Cornelius Quartermain III. She enjoys playing as an envoy for the Hub, often sent on diplomatic errands. The story behind the partnership is a mystery, but it appears that Starbuck plays the role of the "brains" in the duo.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 5 - End -->
+				  
+				  <!-- NPC 6 -->
+     <div id="npc6a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Cornelius Quartermain III</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Strong - 5<br/>Tough - 4</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Lawful Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33; text-decoration: line-through;">Starbuck Gonzales</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">The Forbidden City</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Hub Defender</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2048</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Frankfurt, Germany</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">German</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">30</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Athletic Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'11"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Dirty Blonde, Short</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Blue</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg7" class="img" src="companylogo.png">
+				  <b>Current Year 3 at the Xicheng Hub, the mute "sidekick" of Starbuck "Danger" Gonzales. Though he currently works for the Xicheng Hub, his loyalty lies entirely with Starbuck. No one really knows the story behind this strange partnership, but some of the elder members of the Hub speculate that Starbuck must have saved Cornelius's life at one point, and thus he is in her debt. It is very clear that Cornelius is the "brawn" of the duo.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 4 - End -->
+				  
 				  
 
 </div>
@@ -623,25 +703,14 @@ $(document).ready(function() {
     font-size: 14pt;
 }
 
-.tab-links:after {
-  display: inline-block;
-  clear: both;
-  content: '';
-}
+ul a {
+    text-decoration: none;
+    font-size: 16pt;
+    color: #8fde39;
+    padding: 5px;
+    line-height: 32px;
+    margin: 0px 20px 0px 20px;
+    list-style: none;
+    background: #0000004f;
 
-.tab-links li {
-  position: relative;
-  top: 0px;
-  left: -25px;
-  margin: 0px 0px 0px 15px;
-  float: left;
-  list-style: none;
-  background: #0000004f;
-}
-.tab-links li a {
-  text-decoration: none;
-  font-size: 16pt;
-  color: #8fde39;
-  padding: 5px;
-}
 </style>

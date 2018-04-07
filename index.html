@@ -9,7 +9,7 @@
   
   
  <div style="position: relative; top: 86px; min-height: 30px; padding: 5pt; text-align: center;"><img src="banner.png">
-<table style="position: absolute;top: 0px;width: 100%;font-size: 42pt;color: #8fde39;line-height: 10pt;font-family: Simsun;text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;text-decoration: none;">
+<table id="index" style="position: absolute;top: 0px;width: 100%;font-size: 42pt;color: #8fde39;line-height: 10pt;font-family: Simsun;text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;text-decoration: none;">
 	  <tbody><tr>
 	  <td id="switch" onmouseover="switch1(this)" onmouseout="switch2(this)" align="center" style="padding-right: 45px;">
 	  <span id="welcome1">歡迎來到</span> 
@@ -32,6 +32,50 @@
 </table>
 <!-- Menu - End -->
 
+<!--index-->
+<div style="display: none; padding: 0px 0px 100px 0px;" id="index1">
+<div id="indexcontainer">
+<h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Index</h1>
+			
+<div class="indexparagraph">
+	<span id="misc" style="font-size: 14pt;">Resources</span>
+	<table style="margin: auto;">
+	<tr><td>core rulebook pdf</td><td>character sheet pdf</td></tr>
+	</table>
+</div>	
+
+</div>
+
+<style>
+#indexcontainer {
+    background-color: rgba(222, 222, 222, 0.17);
+    color: #fff578;
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    font-family: Simsun;
+    width: 750px;
+    z-index: 1;
+    border: solid white 1px;
+    box-shadow: rgba(0, 0, 0, .8) 0 2px 8px;
+    margin: auto;
+    font-size: 14pt;
+    overflow-y: auto;
+    top: 50px;
+}
+
+.indexparagraph {
+	width: 650px;
+	list-style: none;
+	margin: auto;
+	font-size: 11pt;
+	text-align: center;
+}
+
+</style>
+</div>
+<!--index-end-->
+
 
 <div style="display: none; padding: 0px 0px 100px 0px;" id="logo1"></div>
 <div style="display: none; padding: 0px 0px 100px 0px;" id="characters1"></div>
@@ -40,24 +84,7 @@
 <div style="display: none; padding: 0px 0px 100px 0px;" id="items1"></div>
 <div style="display: none; padding: 0px 0px 100px 0px;" id="maps1"></div>
 <div style="display: none; padding: 0px 0px 100px 0px;" id="shop1"></div>
- 
-
-  <!-- Header - Title -->
-  <div id="content">
-     
-    <!-- Header - Title - End-->
-
-    <!-- Body -->
-
-    <body>
-      <section>
-	  
-	 
-		
-      </section>
-    </body>
-  </div>
-  
+   
   
   <script src="jquery-latest.js"></script>
   <script>
@@ -68,6 +95,7 @@ $('#sessions1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("characters1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -82,6 +110,7 @@ $("#sessions").click(function() {
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("sessions1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -96,6 +125,7 @@ $('#sessions1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("items1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -110,6 +140,7 @@ $('#sessions1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("maps1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -124,6 +155,7 @@ $('#sessions1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("missions1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -139,7 +171,24 @@ $('#sessions1').css("display", "none");
 	$('#items1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
+	$('#index1').css("display", "none");
   var x = document.getElementById("shop1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+});
+
+//index
+$("#index").click(function() {
+$('#sessions1').css("display", "none");
+	$('#characters1').css("display", "none");
+	$('#items1').css("display", "none");
+	$('#maps1').css("display", "none");
+	$('#missions1').css("display", "none");
+	$('#shop1').css("display", "none");
+  var x = document.getElementById("index1");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -172,6 +221,7 @@ $(document).ready(function() {
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#index1').css("display", "none");
     });
 	
 });

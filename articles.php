@@ -1,7 +1,7 @@
 
 <div id="logo2">
 <!-- Popup -->
-<form id="login" target="_self">
+<div id="login">
     <h2 align="center" style="
     font-size: 24pt;
 ">授权证书</h2>
@@ -18,11 +18,11 @@
 	  </tr>
 	  <tr style="text-align: center; width: 100%;">
 	  
-	  <td align="right"><input id="logosend" type="submit" value=" 发送 " style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"></td>
-	  <td align="left"><input id="logoclose" type="button" value=" 取消 " style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"></td>
+	  <td align="right" id="logosend"><span style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"> 发送 </span></td>
+	  <td align="left" id="logoclose"><span style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"> 取消 </span></td>
 	  </tr>
 	  </table>
-</form>
+</div>
 
 <div hidden id="fail">
     <h2 id="fail2" align="center">
@@ -97,6 +97,20 @@ $(document).ready(function() {
 		$('#logo1').delay(250).fadeOut();
 		$('.article').css('display', 'none');
 	});
+});
+
+// Get the input field
+var input = document.getElementById("logopass");
+
+// Execute a function when the user releases a key on the keyboard
+input.addEventListener("keyup", function(event) {
+  // Cancel the default action, if needed
+  event.preventDefault();
+  // Number 13 is the "Enter" key on the keyboard
+  if (event.keyCode === 13) {
+    // Trigger the button element with a click
+    document.getElementById("logosend").click();
+  }
 });
 
     document.getElementById('logosend').onclick = function() {

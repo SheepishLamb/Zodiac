@@ -34,14 +34,6 @@
 	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
-	Apps
-	<table style="margin: auto;">
-	<tr class="title"><td class="item">Item</td><td>Watch</td><td>Glasses</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
-	<tr><td class="item">1</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
-	<tr><td class="item">2</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
-	<tr><td class="item">3</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
-	</table>
-	<br/>
 	Glasses Languages
 	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
@@ -56,6 +48,23 @@
 	<tr><td class="item">German</td><td class="cost">&#9566;250</td><td class="desc">wir bären Bären</td></tr>
 	<tr><td class="item">Greek</td><td class="cost">&#9566;250</td><td class="desc">Ο Δίας θέλει να ντυθεί σαν ζώο</td></tr>
 	<tr><td class="item">Celtic</td><td class="cost">&#9566;250</td><td class="desc">Is slag é do mháthair</td></tr>
+	</table>
+	<br/>
+	<br/>
+	Apps
+	<br/>W = Watch | G = Glasses
+	<table style="margin: auto;">
+	<tr class="title"><td class="item">Item</td><td class="apptitle appcheck">W</td><td class="apptitle appcheck">G</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">Shield</td><td class="appcheck">✓</td><td class="appcheck">&nbsp;</td><td class="cost">&#9566;1000</td><td class="desc">A semi-transparent forcefield that gives +1 to defense after a move action to activate. Lasts for 1 round.</td></tr>
+	<tr><td class="item">Automatic Targeting System</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">A locking targeting system that gives +2 to attack against chosen target after a move action to activate. Lasts for 1 round.</td></tr>
+	<tr><td class="item">Fast Food Delivery</td><td class="appcheck">✓</td><td class="appcheck">&nbsp;</td><td class="cost">&#9566;1000</td><td class="desc">A food ordering app that can resupply rations once per week via drone delivery service.</td></tr>
+	<tr><td class="item">App of Disguise</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">A full-body image projector. Can disguise self with a selection of pre-loaded images.<br/><span style="font-size: 10pt;">(Male Garbage Truck Worker, Female Social Media Journalist, Female Nurse w/ blue scrubs, Male Construction Site Worker, Grandfather Clock, Grandmother Clock, Female CEO, Male CEO)</span></td></tr>
+	<tr><td class="item">Sonar</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">A grid-based overlay that allows you to spot enemies around corners and through walls in radius of 20ft.</td></tr>
+	<tr><td class="item">Sonar+</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">Requires: Sonar. Extends radius to 40ft.</td></tr>
+	<tr><td class="item">Sonar++</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">Requires: Sonar and Sonar+. Extends radius to 60ft.</td></tr>
+	<tr><td class="item">Learn by Sleep</td><td class="appcheck">✓</td><td class="appcheck">&nbsp;</td><td class="cost">&#9566;1000</td><td class="desc">If left on overnight, gives +2 to chosen skill during the next day.</td></tr>
+	<tr><td class="item">Did It Hurt?</td><td class="appcheck">✓</td><td class="appcheck">&nbsp;</td><td class="cost">&#9566;1000</td><td class="desc">When speaking to character of the preferred gender, 25% chance of app prompting a pickup line, giving +3 to diplomacy. 5% chance of pickup line bombing.</td></tr>
+	
 	</table>
 	<br/>
 </div>	
@@ -110,6 +119,14 @@
 .desc {
 	background: #37374c;
 	width: 250px;
+}
+
+.apptitle {
+	background: #42614b;
+}
+
+.appcheck {
+    border: 1px solid #42614b;
 }
 
 </style>

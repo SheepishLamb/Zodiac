@@ -39,7 +39,6 @@
 	<tr><td class="item">Celtic</td><td class="cost">&#9566;250</td><td class="desc">Is slag é do mháthair</td></tr>
 	</table>
 	<br/>
-	<br/>
 	<span style="font-size: 14pt;">Apps</span>
 	<br/>W = Watch | G = Glasses
 	<table style="margin: auto;">

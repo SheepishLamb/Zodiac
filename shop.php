@@ -8,14 +8,17 @@
     <br/>as well as a few unique items below.
 	<br/>
 	<br/>
+	<a href="#misc">Miscellaneous</a> | <a href="#elec">Electronics</a> | <a href="#lang">Glasses Languages</a> | <a href="#apps">Apps</a>
+	<br/>
+	<br/>
 	
-	<span style="font-size: 14pt;">Miscellaneous</span>
+	<span id="misc" style="font-size: 14pt;">Miscellaneous</span>
 	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">Watch Batteries</td><td class="cost">&#9566;100</td><td class="desc">Non-Rechargable Mechanical, Digital, and Smartwatch batteries that last a total of 12 days.</td></tr>
 	</table>
 	<br/>
-	<span style="font-size: 14pt;">Electronics</span>
+	<span id="elec" style="font-size: 14pt;">Electronics</span>
 	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">"Zune" MP3 Player</td><td class="cost">&#9566;200</td><td class="desc">An archaic and <i>failed</i> brand of digital/portable music players from the early 2000s.</td></tr>
@@ -23,7 +26,7 @@
 	<tr><td class="item">Smartglasses</td><td class="cost">&#9566;50000</td><td class="desc">Wifi-capable glasses with a built-in mini-projector. Watch the weather forecast through your periphery while reading restaurant reviews that hang over the building in real-time! Downloadable apps available for purchase.</td></tr>
 	</table>
 	<br/>
-	<span style="font-size: 14pt;">Glasses Languages</span>
+	<span id="lang" style="font-size: 14pt;">Glasses Languages</span>
 	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">Spanish</td><td class="cost">&#9566;250</td><td class="desc">su casa es mi queso</td></tr>
@@ -39,7 +42,7 @@
 	<tr><td class="item">Celtic</td><td class="cost">&#9566;250</td><td class="desc">Is slag é do mháthair</td></tr>
 	</table>
 	<br/>
-	<span style="font-size: 14pt;">Apps</span>
+	<span id="apps" style="font-size: 14pt;">Apps</span>
 	<br/>W = Watch | G = Glasses
 	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="apptitle appcheck">W</td><td class="apptitle appcheck">G</td><td class="cost">Cost</td><td class="desc">Description</td></tr>

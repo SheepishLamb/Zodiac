@@ -9,14 +9,14 @@
   
   
  <div style="position: relative; top: 86px; min-height: 30px; padding: 5pt; text-align: center;"><img src="banner.png">
-<table id="index" style="position: absolute;top: 0px;width: 100%;font-size: 42pt;color: #8fde39;line-height: 10pt;font-family: Simsun;text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;text-decoration: none;">
-	  <tbody><tr>
+<table id="index">
+	  <tr>
 	  <td id="switch" onmouseover="switch1(this)" onmouseout="switch2(this)" align="center" style="padding-right: 45px;">
 	  <span id="welcome1">歡迎來到</span> 
 	  <span id="logo" style="top: 67px; position: relative;"><img src="companylogo.png"></span>
 	  <span id="welcome2">西城樞紐</span></td>
 	  </tr>
-	  </tbody></table>
+	  </table>
 	  </div>
  
  <!-- Menu -->
@@ -40,16 +40,29 @@
 <div class="indexparagraph">
 	<span id="misc" style="font-size: 14pt;">Resources</span>
 	<table style="margin: auto;">
-	<tr><td>core rulebook pdf</td><td>character sheet pdf</td></tr>
+	<tr><td><a href="https://drive.google.com/open?id=1SBu7tX4HuSYx6By8Gi_O40r-gzY7TYab" target="_blank">core rulebook pdf</a></td><td><a href="https://drive.google.com/open?id=1nDbcCyXMWJooBXqB3vT0Q-8F-zdFjdPZ" target="_blank">character sheet pdf</a></td></tr>
 	</table>
 </div>	
 
 </div>
 
 <style>
+#index {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    font-size: 42pt;
+    color: #8fde39;
+    line-height: 10pt;
+    font-family: Simsun;
+    text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 #indexcontainer {
     background-color: rgba(222, 222, 222, 0.17);
-    color: #fff578;
+    color: #0acab8;
     border-radius: 5px;
     padding: 5px;
     position: relative;
@@ -70,6 +83,12 @@
 	margin: auto;
 	font-size: 11pt;
 	text-align: center;
+}
+
+.indexparagraph td {
+    background: #593e5f;
+    border: 1px solid #777777;
+	cursor: pointer;
 }
 
 </style>

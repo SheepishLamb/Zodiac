@@ -34,12 +34,12 @@
 	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
-	Watch Apps
+	Apps
 	<table style="margin: auto;">
-	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
-	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
-	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
-	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr class="title"><td class="item">Item</td><td>Watch</td><td>Glasses</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">1</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">2</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">3</td><td>x</td><td>x</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
 	Glasses Languages

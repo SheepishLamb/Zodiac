@@ -120,4 +120,8 @@
     border: 1px solid #42614b;
 }
 
+.bookmark {
+    color: gold;
+}
+
 </style>

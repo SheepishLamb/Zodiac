@@ -8,7 +8,7 @@
     <br/>as well as a few unique items below.
 	<br/>
 	<br/>
-	<a href="#misc">Miscellaneous</a> | <a href="#elec">Electronics</a> | <a href="#lang">Glasses Languages</a> | <a href="#apps">Apps</a>
+	<a class="bookmark" href="#misc">Miscellaneous</a> | <a class="bookmark" href="#elec">Electronics</a> | <a class="bookmark" href="#lang">Glasses Languages</a> | <a class="bookmark" href="#apps">Apps</a>
 	<br/>
 	<br/>
 	

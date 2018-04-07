@@ -11,7 +11,7 @@
 	
 	
 	Armor
-	<table style="margin: auto; width: 250px;">
+	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
@@ -19,7 +19,7 @@
 	</table>
 	<br/>
 	Weaponry
-	<table style="margin: auto; width: 250px;">
+	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
@@ -27,7 +27,7 @@
 	</table>
 	<br/>
 	Electronics
-	<table style="margin: auto; width: 250px;">
+	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">"Zune" MP3 Player</td><td class="cost">&#9566;200</td><td class="desc">An archaic and <i>failed</i> brand of digital/portable music players from the early 2000s.</td></tr>
 	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
@@ -35,7 +35,7 @@
 	</table>
 	<br/>
 	Watch Apps
-	<table style="margin: auto; width: 250px;">
+	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
@@ -43,7 +43,7 @@
 	</table>
 	<br/>
 	Glasses Languages
-	<table style="margin: auto; width: 250px;">
+	<table style="margin: auto;">
 	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
 	<tr><td class="item">Spanish</td><td class="cost">&#9566;250</td><td class="desc">su casa es mi queso</td></tr>
 	<tr><td class="item">French</td><td class="cost">&#9566;250</td><td class="desc">omelette du fromage</td></tr>

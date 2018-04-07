@@ -1,7 +1,7 @@
 
 <div id="logo2">
 <!-- Popup -->
-<div id="login">
+<form id="login" action="#">
     <h2 align="center" style="
     font-size: 24pt;
 ">授权证书</h2>
@@ -22,7 +22,7 @@
 	  <td align="left"><input id="logoclose" type="button" value=" 取消 " style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"></td>
 	  </tr>
 	  </table>
-</div>
+</form>
 
 <div hidden id="fail">
     <h2 id="fail2" align="center">

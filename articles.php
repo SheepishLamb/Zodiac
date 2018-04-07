@@ -207,6 +207,8 @@ color: #8fde39;
     right: 200px;
     font-weight: bold;
     font-size: 14pt;
+	z-index: 3;
+    cursor: pointer;
 }
 
 #logo2 {

@@ -9,7 +9,7 @@
   
   
  <div style="position: relative; top: 86px; min-height: 30px; padding: 5pt; text-align: center;"><img src="banner.png">
-<table id="index">
+<table id="welcome">
 	  <tr>
 	  <td id="switch" onmouseover="switch1(this)" onmouseout="switch2(this)" align="center" style="padding-right: 45px;">
 	  <span id="welcome1">歡迎來到</span> 
@@ -32,6 +32,10 @@
 </table>
 <!-- Menu - End -->
 
+<div id="index">Index</div>
+
+
+
 <!--index-->
 <div style="display: none; padding: 0px 0px 100px 0px;" id="index1">
 <div id="indexcontainer">
@@ -47,18 +51,6 @@
 </div>
 
 <style>
-#index {
-    position: absolute;
-    top: 0px;
-    width: 100%;
-    font-size: 42pt;
-    color: #8fde39;
-    line-height: 10pt;
-    font-family: Simsun;
-    text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;
-    text-decoration: none;
-    cursor: pointer;
-}
 
 #indexcontainer {
     background-color: rgba(222, 222, 222, 0.17);
@@ -271,12 +263,19 @@ $(document).ready(function() {
   </script>
   </body>
   <style>
-    #content {
-      margin: auto;
-      width: 100%;
-      overflow-y: auto;
-	  min-width: 700px;
-    }
+    #welcome {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    font-size: 42pt;
+    color: #8fde39;
+    line-height: 10pt;
+    font-family: Simsun;
+    text-shadow: rgba(0, 0, 0, .8) 0 2px 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
     
     body {
       background-image: url(background2.png);

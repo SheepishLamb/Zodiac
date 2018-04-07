@@ -12,58 +12,50 @@
 	
 	Armor
 	<table style="margin: auto; width: 250px;">
-	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
-	<tr><td>1</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>2</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>3</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>4</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>5</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
+	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
 	Weaponry
 	<table style="margin: auto; width: 250px;">
-	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
-	<tr><td>1</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>2</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>3</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>4</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>5</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
+	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
 	Electronics
 	<table style="margin: auto; width: 250px;">
-	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
-	<tr><td>"Zune" MP3 Player</td><td>&#9566;200</td><td>An archaic and <i>failed</i> brand of digital/portable music players from the early 2000s.</td></tr>
-	<tr><td>2</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>3</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>4</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>5</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
+	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">"Zune" MP3 Player</td><td class="cost">&#9566;200</td><td class="desc">An archaic and <i>failed</i> brand of digital/portable music players from the early 2000s.</td></tr>
+	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
 	Watch Apps
 	<table style="margin: auto; width: 250px;">
-	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
-	<tr><td>1</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>2</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>3</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>4</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
-	<tr><td>5</td><td>&#9566;500</td><td>Yaddayadda</td></tr>
+	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">1</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">2</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
+	<tr><td class="item">3</td><td class="cost">&#9566;500</td><td class="desc">Yaddayadda</td></tr>
 	</table>
 	<br/>
 	Glasses Languages
 	<table style="margin: auto; width: 250px;">
-	<tr><td>Item</td><td>Cost</td><td>Description</td></tr>
-	<tr><td>Spanish</td><td>&#9566;250</td><td>su casa es mi queso</td></tr>
-	<tr><td>French</td><td>&#9566;250</td><td>omelette du fromage</td></tr>
-	<tr><td>Hindi</td><td>&#9566;250</td><td>गाय रंभाती है</td></tr>
-	<tr><td>Arabic</td><td>&#9566;250</td><td>أنا أبكي كثيرا</td></tr>
-	<tr><td>Portuguese</td><td>&#9566;250</td><td>portar um gansos</td></tr>
-	<tr><td>Bengali</td><td>&#9566;250</td><td>আমার বিছানা মধ্যে একটি দৈত্য আছে</td></tr>
-	<tr><td>Russian</td><td>&#9566;250</td><td>медведи на велосипедах с одним колесом</td></tr>
-	<tr><td>Japanese</td><td>&#9566;250</td><td>触手モンスター</td></tr>
-	<tr><td>German</td><td>&#9566;250</td><td>wir bären Bären</td></tr>
-	<tr><td>Greek</td><td>&#9566;250</td><td>Ο Δίας θέλει να ντυθεί σαν ζώο</td></tr>
-	<tr><td>Celtic</td><td>&#9566;250</td><td>Is slag é do mháthair</td></tr>
+	<tr class="title"><td class="item">Item</td><td class="cost">Cost</td><td class="desc">Description</td></tr>
+	<tr><td class="item">Spanish</td><td class="cost">&#9566;250</td><td class="desc">su casa es mi queso</td></tr>
+	<tr><td class="item">French</td><td class="cost">&#9566;250</td><td class="desc">omelette du fromage</td></tr>
+	<tr><td class="item">Hindi</td><td class="cost">&#9566;250</td><td class="desc">गाय रंभाती है</td></tr>
+	<tr><td class="item">Arabic</td><td class="cost">&#9566;250</td><td class="desc">أنا أبكي كثيرا</td></tr>
+	<tr><td class="item">Portuguese</td><td class="cost">&#9566;250</td><td class="desc">portar um gansos</td></tr>
+	<tr><td class="item">Bengali</td><td class="cost">&#9566;250</td><td class="desc">আমার বিছানা মধ্যে একটি দৈত্য আছে</td></tr>
+	<tr><td class="item">Russian</td><td class="cost">&#9566;250</td><td class="desc">медведи на велосипедах с одним колесом</td></tr>
+	<tr><td class="item">Japanese</td><td class="cost">&#9566;250</td><td class="desc">触手モンスター</td></tr>
+	<tr><td class="item">German</td><td class="cost">&#9566;250</td><td class="desc">wir bären Bären</td></tr>
+	<tr><td class="item">Greek</td><td class="cost">&#9566;250</td><td class="desc">Ο Δίας θέλει να ντυθεί σαν ζώο</td></tr>
+	<tr><td class="item">Celtic</td><td class="cost">&#9566;250</td><td class="desc">Is slag é do mháthair</td></tr>
 	</table>
 	<br/>
 </div>	
@@ -97,6 +89,22 @@
 	margin: auto;
 	font-size: 11pt;
 	text-align: center;
+}
+
+.title {
+	background: #8e8e8e57 !important;
+}
+
+.item {
+    background: #8e8e8e57;
+}
+
+.cost {
+    background: #8e8e8e57;
+}
+
+.desc {
+	background: #20203857;
 }
 
 </style>

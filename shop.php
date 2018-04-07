@@ -92,19 +92,24 @@
 }
 
 .title {
-	background: #8e8e8e57 !important;
+	background: #dadada !important;
+	font-weight: bold;
+    font-size: 14pt;
 }
 
 .item {
-    background: #8e8e8e57;
+    background: #4a4747;
+	width: 100px;
 }
 
 .cost {
-    background: #8e8e8e57;
+    background: #8e8e8e;
+	width: 80px;
 }
 
 .desc {
-	background: #20203857;
+	background: #37374c;
+	width: 250px;
 }
 
 </style>

@@ -18,8 +18,8 @@
 	  </tr>
 	  <tr style="text-align: center; width: 100%;">
 	  
-	  <td align="right" id="logosend"><span style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"> 发送 </span></td>
-	  <td align="left" id="logoclose"><span style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"> 取消 </span></td>
+	  <td align="right"><input id="logosend" type="submit" value=" 发送 " style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"></td>
+	  <td align="left"><input id="logoclose" type="button" value=" 取消 " style="border: 1px solid silver; cursor: pointer;padding: 2px 10px;"></td>
 	  </tr>
 	  </table>
 </div>

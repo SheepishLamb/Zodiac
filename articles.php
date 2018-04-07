@@ -38,8 +38,8 @@
 				   <!-- Fuchsia -->
  <div hidden class="article" id="fuchsia" style="color: fuchsia;">
  <h1 class="artcolor">F҉u͖̰͇͆̊́c̨̪̼̬ͤ̎̊͐ͫ̀̎ḫ̴͂̎̈si͓̗̣͇̰͋ͦa̢̱̖̪̥͐</h1>
+ <div class="artclose">X</div>
 <div id="fuchsia1">
-<div class="artclose">X</div>
 				  </div>
 				  </div>
 				  <!-- Fuchsia - end -->
@@ -47,8 +47,8 @@
 				  <!-- inchworm -->
  <div hidden class="article" id="inchworm" style="color: #44bdac;">
  <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
+ <div class="artclose">X</div>
 <div id="inchworm1">
-<div class="artclose">X</div>
 				  </div>
 				  </div>
 				  <!-- inchworm - end -->

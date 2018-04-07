@@ -67,7 +67,7 @@ $(function() {
     box-shadow: rgba(0, 0, 0, .8) 0 2px 8px;
     margin: auto;
     font-size: 14pt;
-    top: 50px;
+    top: 0px;
 }
 
 .mpparagraph {

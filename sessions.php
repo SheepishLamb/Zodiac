@@ -79,7 +79,7 @@ $(function() {
     margin: auto;
     font-size: 14pt;
     overflow-y: auto;
-    top: 50px;
+    top: 0px;
 }
 
 .sesparagraph {

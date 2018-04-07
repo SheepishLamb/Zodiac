@@ -1,7 +1,7 @@
 
 <div id="logo2">
 <!-- Popup -->
-<form id="login" action="#">
+<form id="login" target="_self">
     <h2 align="center" style="
     font-size: 24pt;
 ">授权证书</h2>

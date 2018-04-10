@@ -14,8 +14,8 @@
 				<br/>Reward: ╞5000</div>
 				  <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Jimothy Ticket @ China Teenagers and Childrens Fund</li>
-				  <li class="details">Someone has reported strange activity at the local orphanage. The only person willing to talk is a young girl. Visit the orphanage and question the girl.</li>
-				  <li class="bonus">Bonus Reward: ╞2500 - Solve the issue for the orphanage.</li>
+				  <li class="details">Mr. Ticket has reported strange activity at the local orphanage. "Glitches" are disturbing the children and appear to be sapping their energy. Visit the orphanage and investigate!</li>
+				  <li class="bonus">Bonus Reward: ╞2500 - Guarantee that these "Glitches" don't return, for the sake of the children!</li>
                   </ul>
 				  
 				  </div>

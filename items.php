@@ -83,7 +83,7 @@
 				Wrist watch with built-in data storage, social networking, access to news media, and weather apps that adapt and protect the wearer from rainfall, snowfall, and UV rays in the form of translucent and tinted umbrella canopy. +3 to all Knowledge after using Media apps for 1 round. -2 to Dex and Str during use.
 				</div>
 				<div style="text-align: center;">Battery Life (days):
-				<br/><input type="checkbox" checked="true" disabled><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></div>
+				<br/><input type="checkbox" checked="true" disabled><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"></div>
 </div>	
 
 <div hidden id="item3" style="text-align: center; margin: 50px 0px;">

@@ -7,10 +7,10 @@
 				  <!-- Mission 2 -->
 	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="inprogress">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span class="open">Open</span>
+				<div style="text-align: center;">Status: <span class="inprogress">In Progress</span>
 				<br/>Reward: ╞5000</div>
 				  <ul style="font-size: 10pt;">
 				  <li class="contact">Contact: Jimothy Ticket @ China Teenagers and Childrens Fund</li>

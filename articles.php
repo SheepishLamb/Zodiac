@@ -70,6 +70,13 @@
 				  </div>
 				  </div>
 				  <!-- delta - end -->
+				  <!-- deltacode -->
+ <div hidden class="article" id="dcode" style="color: red;">
+ <div class="artclose">X</div>
+<div id="dcode1">
+				  </div>
+				  </div>
+				  <!-- deltacode - end -->
 
 
 </div>
@@ -121,7 +128,10 @@ input.addEventListener("keyup", function(event) {
       } else if ($("#logopass").val() == "delta") {
 		  $('#login').css('display', 'none');
 		  $('#delta').delay(50).fadeIn();
-	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "nightlight" || $("#logopass").val() != "delta") {
+		  } else if ($("#logopass").val() == "dcode") {
+		  $('#login').css('display', 'none');
+		  $('#dcode').delay(50).fadeIn();
+	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "nightlight" || $("#logopass").val() != "delta" || $("#logopass").val() != "dcode") {
 		  $('#login').css('display', 'none');
 		  $('#fail').delay(50).fadeIn();
 	  }

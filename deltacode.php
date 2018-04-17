@@ -1,5 +1,5 @@
 <div class="artcontainer" style="background-color: black;">
-<h1 style="font-family: 'VT323', monospace; font-size: 28px; text-align: center; line-height: 20pt; font-weight: 400;" id="dcodeblink">delta</h1>
+<h1 style="font-family: georgia; font-size: 108px; text-align: center; line-height: 20pt; font-weight: 400;" id="dcodeblink">delta</h1>
 
 	 </div>
 	 

@@ -53,18 +53,14 @@
 				  </div>
 				  <!-- inchworm - end -->
 				  
-				  <!-- turquoise -->
- <div hidden class="article" id="turquoise" style="color: turquoise;">
- <h1 class="artcolor">T̩͚̦̗͕̽̆ͥu͗ͦͯ̄ͧͅr̯̥͉͕͇̩̤ͯ̀̈́̔͒̏q̸͓̭̱͇̙̂̾̔ͬu͇̮̫ͦ͢ơ̹̫̦̺̅ͧï̛͇̞̮̎ͧͩ̎̔šę̩̼̮͕͉̔͆̆̆̂ͅ</h1>
-<div class="artcontainer">
-<h1 style="font-family: 'Unica One', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">"108 101 97 118 101"</h1>			
-	<div class="artclose">X</div>		
-     <div class="artparagraph">								
-		"89 111 117 39 114 101 32 110 111 116 32 115 117 112 112 111 115 101 100 32 116 111 32 98 101 32 104 101 114 101 46 32 73 39 109 32 119 97 116 99 104 105 110 103 32 121 111 117 46 32 84 111 111 32 108 97 116 101 46"
+				  <!-- nightlight -->
+ <div hidden class="article" id="nightlight" style="color: orange;">
+  <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
+ <div class="artclose">X</div>
+<div id="nightlight1">
 				  </div>
 				  </div>
-				  </div>
-				  <!-- turquoise - end -->
+				  <!-- nightlight - end -->
 				  
 				  <!-- orange -->
  <div hidden class="article" id="orange" style="color: orange;">
@@ -123,13 +119,13 @@ input.addEventListener("keyup", function(event) {
 		  } else if ($("#logopass").val() == "inchworm") {
 		  $('#login').css('display', 'none');
 		  $('#inchworm').delay(50).fadeIn();
-	  } else if ($("#logopass").val() == "turquoise") {
+	  } else if ($("#logopass").val() == "nightlight") {
 		  $('#login').css('display', 'none');
-		  $('#turquoise').delay(50).fadeIn();
-      } else if ($("#logopass").val() == "orange") {
+		  $('#nightlight').delay(50).fadeIn();
+      } else if ($("#logopass").val() == "nightlight") {
 		  $('#login').css('display', 'none');
-		  $('#orange').delay(50).fadeIn();
-	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "turquoise" || $("#logopass").val() != "orange") {
+		  $('#nightlight').delay(50).fadeIn();
+	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "nightlight" || $("#logopass").val() != "orange") {
 		  $('#login').css('display', 'none');
 		  $('#fail').delay(50).fadeIn();
 	  }

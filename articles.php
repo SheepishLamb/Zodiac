@@ -192,7 +192,6 @@ color: #8fde39;
     line-height: 12pt;
     font-weight: 400;
     position: relative;
-    top: 50px;
 }
 
 .artclose {

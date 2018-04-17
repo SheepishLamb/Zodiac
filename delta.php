@@ -1,6 +1,6 @@
-<div class="artcontainer">
+<div class="artcontainer" style="font-family: georgia;">
 <h1 style="font-family: 'VT323', monospace; font-size: 28px; text-align: center; line-height: 20pt; font-weight: 400;">Track a package</h1>
-<div class="artparagraph" style="text-align: justify; background: linear-gradient(to bottom, #8880 80%, #0000007a 95%); font-style: italic; font-size: 13pt;">
+<div class="artparagraph" style="text-align: center; background: linear-gradient(to bottom, #8880 80%, #0000007a 95%); font-size: 13pt;">
 <form>
   <input id="track" placeholder="Enter tracking number" value="" type="text">
   <div id="error" hidden>

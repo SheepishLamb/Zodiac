@@ -142,6 +142,7 @@ input.addEventListener("keyup", function(event) {
 	$("#inchworm1").load("inchworm.php");
 	$("#nightlight1").load("nightlight.php");
 	$("#delta1").load("delta.php");
+	$("#dcode1").load("deltacode.php");
 	});
 	
 	document.getElementById('failclose').onclick = function() {

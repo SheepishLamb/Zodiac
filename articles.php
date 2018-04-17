@@ -55,25 +55,21 @@
 				  
 				  <!-- nightlight -->
  <div hidden class="article" id="nightlight" style="color: orange;">
-  <h1 class="artcolor">I͓͓ͨn̹͇̻̥̪̭̲͜c̱͍̳̟͊̅̀ͣ̒̊͒ͅh͐҉̤͇w̰̘͈͙̾ͣ̏̏͒͑ͫ͢ő͓͓̞̙̙̃̅͆r̻͓͑͒̑̽ͯ̓͑͢m̟̋ͩ͂́ͬ</h1>
+  <h1 class="artcolor">n̞̺͜ͅig̴͖̻͖͉͈h͇tl̴i͎̖̺̦g͕h̗̞͍͍ͅt͈̱̪̝̀</h1>
  <div class="artclose">X</div>
 <div id="nightlight1">
 				  </div>
 				  </div>
 				  <!-- nightlight - end -->
 				  
-				  <!-- orange -->
- <div hidden class="article" id="orange" style="color: orange;">
- <h1 class="artcolor">O̢͍̓̃͂̑͐ͧ͐ͅrͨͤ͌̽͋ͬ́̚ã́n͙̐̑̊ͣͥ̄́͜ǧ͔̦͉̲̥̎̂e̼̥͓̮ͬ</h1>
-<div class="artcontainer">
-<h1 style="font-family: 'Unica One', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">"TGVhdmU="</h1>			
-	<div class="artclose">X</div>		
-     <div class="artparagraph">								
-		"WW91IGRpZG4ndCBsaXN0ZW4uIEl0J3Mgc3RpbGwgaGFwcGVuaW5nLiBXaHk/IFdoeT8gV2h5Pw=="
+				  <!-- delta -->
+ <div hidden class="article" id="delta" style="color: red;">
+<h1 class="artcolor">d̸͚̹̖e̹͓̘̼̜̩̪͞l̠̲̭t̩͇̫̜̹a̫</h1>
+ <div class="artclose">X</div>
+<div id="delta1">
 				  </div>
 				  </div>
-				  </div>
-				  <!-- orange - end -->
+				  <!-- delta - end -->
 
 
 </div>
@@ -122,10 +118,10 @@ input.addEventListener("keyup", function(event) {
 	  } else if ($("#logopass").val() == "nightlight") {
 		  $('#login').css('display', 'none');
 		  $('#nightlight').delay(50).fadeIn();
-      } else if ($("#logopass").val() == "nightlight") {
+      } else if ($("#logopass").val() == "delta") {
 		  $('#login').css('display', 'none');
-		  $('#nightlight').delay(50).fadeIn();
-	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "nightlight" || $("#logopass").val() != "orange") {
+		  $('#delta').delay(50).fadeIn();
+	  } else if ($("#logopass").val() != "green" || $("#logopass").val() != "fuchsia" || $("#logopass").val() != "inchworm" || $("#logopass").val() != "nightlight" || $("#logopass").val() != "delta") {
 		  $('#login').css('display', 'none');
 		  $('#fail').delay(50).fadeIn();
 	  }
@@ -134,6 +130,8 @@ input.addEventListener("keyup", function(event) {
 	$(function() {
 	$("#fuchsia1").load("fuchsia.php");
 	$("#inchworm1").load("inchworm.php");
+	$("#nightlight1").load("nightlight.php");
+	$("#delta1").load("delta.php");
 	});
 	
 	document.getElementById('failclose').onclick = function() {

@@ -390,7 +390,7 @@
 	  <a href="#npc5a">Starbuck Gonzales</a>
 	  <a href="#npc6a">Cornelius Quartermain III</a>
 	  <a href="#npc7a">Jimothy Ticket</a>
-	  <a href="#npc8a">Dr. Clounce Mandela</a>
+	  <br/><a href="#npc8a">Dr. Clounce Mandela</a>
 	  <a href="#npc9a">Courtney</a>
     </ul>
 	
@@ -741,7 +741,7 @@
 				<b style="font-size: 18pt; margin: auto;">Background</b>
 				<ul style="font-size: 10pt;text-align: left;">
 				  <li class="chparagraph">
-				  <img id="chimg11" class="img" src="courtgif.gif">
+				  <img id="chimg11" class="img" src="courtneyicon.png">
 				  <b>Courtney was created in 2062 by the MicroSAM company as a personal assistant A.I. She is usually seen as a hologram projection, but is also available on smart devices and personal computers.</b></li>
                   </ul>
 				  </div>

@@ -112,7 +112,13 @@ $(function() {
 	  $('.mpimgclose').click(function(e) {
 		$(this).parent('.mpimga').css('display', 'none');
 	});
+	
+	$('.majorpoints').click(function() {
+        $(this).find('.hidersb').toggle();
+      });
+	  
 });
+
 
 </script>
 

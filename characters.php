@@ -877,7 +877,6 @@ $(document).ready(function() {
 }
 
 .imgb {
-	width: 250px;
 }
 
 .imgclose {

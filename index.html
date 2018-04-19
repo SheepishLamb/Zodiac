@@ -279,9 +279,9 @@ $(document).ready(function() {
       });
 
 	  if ($("#logo1").is(":visible") || $("#characters1").is(":visible") || $("#sessions1").is(":visible") || $("#items1").is(":visible") || $("#maps1").is(":visible") || $("#missions1").is(":visible") || $("#shop1").is(":visible")) {
-	  $("#warn1").prop("hidden", true);
+	  $('#warn1').css("display", "none");
 	  }else if ($("#logo1").not(":visible") && $("#characters1").not(":visible") && $("#sessions1").not(":visible") && $("#items1").not(":visible") && $("#maps1").not(":visible") && $("#missions1").not(":visible") && $("#shop1").not(":visible")) {
-	  $("#warn1").prop("hidden", false);
+	  $('#warn1').css("display", "block");
 	  }
       
       // End

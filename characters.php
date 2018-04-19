@@ -5,9 +5,8 @@
 </tr>
 </tbody></table>
 
-<div hidden id="chpcs1">
 
-<!-- chimages -->
+<!-- pcchimages -->
 <div hidden id="chimg1a" class="imga">
 <div class="imgclose">X</div>
 <img id="chimg1b" class="imgb" src="companylogo.png">
@@ -38,6 +37,8 @@
 <img id="chimg5bb" class="imgb" src="companylogo.png">
 </div>
 <!-- chimages - end -->
+
+<div hidden id="chpcs1">
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Player Characters</h1>			
 			
@@ -339,10 +340,9 @@
 </div>
 </div>
 </div>
+	
 
-<div hidden id="chnpcs1">	
-
-<!-- chimages -->
+<!-- npcchimages -->
 <div hidden id="chimg51a" class="imga">
 <div class="imgclose">X</div>
 <img id="chimg51b" class="imgb" src="companylogo.png">
@@ -378,6 +378,8 @@
 <img id="chimg11b" class="imgb" src="courtgif.gif">
 </div>
 <!-- chimages - end -->
+
+<div hidden id="chnpcs1">
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Non-Player Characters</h1>		
 			
@@ -869,7 +871,6 @@ $(document).ready(function() {
     left: 0px;
     background: #00000099;
     width: 100%;
-    height: -webkit-fill-available;
     z-index: 3;
     text-align: center;
     padding: 100px 0px;
@@ -880,11 +881,12 @@ $(document).ready(function() {
 }
 
 .imgclose {
-	position: absolute;
+	position: fixed;
     top: 10px;
-    right: 10px;
+    right: 100px;
     font-weight: bold;
     font-size: 14pt;
+	color: #cf7fff;
 }
 
 ul a {

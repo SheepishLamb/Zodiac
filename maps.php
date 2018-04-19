@@ -36,25 +36,18 @@
 				
 				<b>"Hide and Seek"</b>
                   <ul style="font-size: 12pt;">
-				  <li class="addition">Date: May 11th, 2078</li>
-				  <li class="newpage">The Group has just been promoted to Year One rank in the Xicheng Hub - with it, is access to private quarters on campus, as well as discounts to supplies and a new dossier with missions.</li>
-				  <li class="bug">They accepted the first mission: Locate Franklin Barry and the missing supply cache he was supposed to bring back.</li>
-				  <li class="change">The Group visited Baita Si, a local Buddhist Temple that is having troubles keeping Rolatide from buying their land to erect a new factory due to lack of funds and structural repair costs to their aging buildings. The monks pointed The Group to Lotus Blue, a new bar that some of the Hub members frequented. The Group elected to pool together their personal credits to save Baita Si before moving on to Lotus Blue.
-				  <br/>
-				  <br/>Franklin was at the bar, but the cache had been sold off with Baita Si's troubles in mind. After telling Franklin that they themselves have handed over the necessary funds, Franklin parted ways with Xicheng Hub, leaving behind 10k credits he made from selling the supplies <i>and</i> a cryptic message. Willard made use of his USB drive to aid his research of the origin of the message and discovered a hidden article. The Group decided to try to trace the 10k credits on Franklin's card back to the seller. The Bank of Beijing reported that the transaction traced back to The Forbidden City. 
-				  <br/><br/>As they exited the Bank, an ambush unfolded..!</li>
-                  </ul>
-				  
-				  </div>
-				  </fieldset>
-				  </div>
-<br/><br/><span style="color: yellowgreen;">Rolatide Incorporated</span> - the company responsible for the breakthrough in Alzheimer's treatment, along with a whole slew of medications, vitamins, and the jump in use of nanotechnology by the year 2050 -  has bought out most, if not all, of the competing companies in Beijing, China, causing a massive amount of job losses as the monopoly grew. Still needing credits to keep roofs over their heads and food on their plates, mercenary work quickly became the norm for the unemployed in Beijing. Whatever needed to be done with no questions asked, would be done - for a price. Quickly following were The Hubs - organized guilds for those Jack-of-all-Trades that would offer protection, equipment, and a steady stream of jobs for a small cut of the profits from each gig.
+				  <br/><br/><span style="color: yellowgreen;">Rolatide Incorporated</span> - the company responsible for the breakthrough in Alzheimer's treatment, along with a whole slew of medications, vitamins, and the jump in use of nanotechnology by the year 2050 -  has bought out most, if not all, of the competing companies in Beijing, China, causing a massive amount of job losses as the monopoly grew. Still needing credits to keep roofs over their heads and food on their plates, mercenary work quickly became the norm for the unemployed in Beijing. Whatever needed to be done with no questions asked, would be done - for a price. Quickly following were The Hubs - organized guilds for those Jack-of-all-Trades that would offer protection, equipment, and a steady stream of jobs for a small cut of the profits from each gig.
 <br/><br/>Your Hub is located in the Xicheng district of Beijing - namely <i style="color: yellowgreen;">The Forbidden City</i>.
 <br/><br/>The Xicheng Hub is run by Diego Kù - a man known as “<span style="color: lightskyblue;">The Silent</span>”. (This is mostly because when a problem arises in the district, he prefers action over conversation.) Out of all the Hubs in Beijing, it seems that the Xicheng Hub has the best resources and a wider clientele for jobs. You’ve all been with the Hub for a year now, and have earned the rank “<span style="color: palegoldenrod;">Nián Yī</span>” (or “Year One”), as well as each of you granted a room in the Palace of Heavenly Purity - a tower located just behind the Hub’s Headquarters where long-standing members live. Some of the more senior members have whole floors to themselves throughout the tower, but the majority have loft-style apartments that take up ¼ of a single floor, sharing the floor with 3 other apartments.
 <br/><br/>In exchange for running with the Hub, you’ve all negotiated to pay 5% of whatever you rake in on your jobs until such a time you decide to part ways with the guild (this is automatically calculated by me). The benefits of membership include exclusive gear and upgrades to equipment for a discounted cost versus what you would find outside of the walls. You can find the guild suppliers in Fengxian Hall. 
 <br/><br/>The Forbidden City not only houses the Hub, but is of course a small community that allows a few dozen families and businesses within the walls. The people who live within the walls often employ the Hub’s members for errands or occasional protective duties for which they get paid and report back to the Hub. More common are missions that take place around Beijing for higher prices. Very rarely, if at all, will a Hub member be deployed outside of Beijing. This is so as to not cross into other Hub territories, unless two or more Hubs have agreed to work together.
 <br/><br/>The Forbidden City itself is named that way because hundreds and hundreds of years ago, this is where the Chinese emperors would live. The area was strictly forbidden to commoners. The emperor and his concubines as well as servants and their families would live inside of these walls. It was the political center of China for about 500 years before it became essentially a museum in the early 20th century. Tourists stopped coming around and the area’s been abandoned for decades until the Hubs were formed. The high walls made it the perfect place to host a guild with security and privacy in mind.
-</div>	
+
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
 	<br/>
 	<div id="mpicons">
 	<table style="text-align: center; margin: auto;">

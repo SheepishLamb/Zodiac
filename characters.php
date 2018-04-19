@@ -860,8 +860,8 @@ $(document).ready(function() {
 .img {
 	float: right;
 	border: 1px solid;
-	width: 75px;
-	height: 75px;
+	width: 100px;
+	height: 100px;
 	cursor: pointer;
 }
 

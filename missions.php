@@ -3,19 +3,18 @@
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Missions</h1>			
 		
-				  
 				  <!-- Mission 2 -->
 	<div>
               <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="inprogress">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
+                <legend class="mismajorpointslegend"><b class="inprogress">&nbsp; &bull; "Missing Packages" &nbsp;</b></legend>
                 <div class="hiders" style="display:none">
 				
-				<div style="text-align: center;">Status: <span class="inprogress">In Progress</span>
-				<br/>Reward: ╞5000</div>
+				<div style="text-align: center;">Status: <span class="inprogress">INTERRUPTED</span>
+				<br/>Reward: ╞1000</div>
 				  <ul style="font-size: 10pt;">
-				  <li class="contact">Contact: Jimothy Ticket @ China Teenagers and Childrens Fund</li>
-				  <li class="details">Mr. Ticket has reported strange activity at the local orphanage. "Glitches" are disturbing the children and appear to be sapping their energy. Visit the orphanage and investigate!</li>
-				  <li class="bonus">Bonus Reward: ╞2500 - Guarantee that these "Glitches" don't return, for the sake of the children!</li>
+				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
+				  <li class="details">A bunch of packages have been reported missing through the Beijing Parcel Delivery company. It appears their delivery drones have been being hacked and sent to another location.</li>
+				  <li class="bonus">Bonus Reward: ╞500 - Bring back the packages and/or the drones.</li>
                   </ul>
 				  
 				  </div>
@@ -35,25 +34,6 @@
 				  <li class="contact">Contact: Diego Ku @ Xicheng Hub</li>
 				  <li class="details">A gang has taken over one of the Rolatide bottling factories and is keeping hostages. Clean out the factory and report back.</li>
 				  <li class="bonus">Bonus Reward: ╞3000 - Save all the hostages!</li>
-                  </ul>
-				  
-				  </div>
-				  </fieldset>
-				  </div>
-				  <!-- Mission 2 - end -->
-				  
-				  <!-- Mission 2 -->
-	<div>
-              <fieldset style="border: none;" class="majorpoints">
-                <legend class="mismajorpointslegend"><b class="open">&nbsp; &bull; "Who Let The Xuhai Out?" &nbsp;</b></legend>
-                <div class="hiders" style="display:none">
-				
-				<div style="text-align: center;">Status: <span class="open">Open</span>
-				<br/>Reward: ╞10000</div>
-				  <ul style="font-size: 10pt;">
-				  <li class="contact">Contact: Deveraux Thespian @ Beijing Museum of Natural History</li>
-				  <li class="details">The Relic of Xuhai has disappeared from the Beijing Museum of Natural History. Meet with the curator, Deveraux Thespian.</li>
-				  <li class="bonus">Bonus Reward: ╞5000 - Recover the artifact and return it to the museum IN ONE PIECE.</li>
                   </ul>
 				  
 				  </div>
@@ -94,6 +74,44 @@
 				  <li class="details">How do I submit a mission? Just tell them I need scrap from the scrap yard. Yes. Thanks.</li>
 				  <li class="bonus">Bonus Reward: ╞500 - Uuhh, I dunno. I guess the cafeteria also needs some milk and eggs from the boys out at Chunshan Dairy Farm.
 				  <br/>(Successful!)</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 2 - end -->
+				  
+				  <!-- Mission 2 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Think of the Children!" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="closed">Closed</span>
+				<br/>Reward: ╞5000</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Jimothy Ticket @ China Teenagers and Childrens Fund</li>
+				  <li class="details">Mr. Ticket has reported strange activity at the local orphanage. "Glitches" are disturbing the children and appear to be sapping their energy. Visit the orphanage and investigate!</li>
+				  <li class="bonus">Bonus Reward: ╞2500 - Guarantee that these "Glitches" don't return, for the sake of the children!</li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Mission 2 - end -->
+				  
+				  <!-- Mission 2 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="mismajorpointslegend"><b class="closed">&nbsp; &bull; "Who Let The Xuhai Out?" &nbsp;</b></legend>
+                <div class="hiders" style="display:none">
+				
+				<div style="text-align: center;">Status: <span class="closed">Closed</span>
+				<br/>Reward: ╞10000</div>
+				  <ul style="font-size: 10pt;">
+				  <li class="contact">Contact: Clounce Mandela @ Beijing Museum of Natural History</li>
+				  <li class="details">The Relic of Xuhai has disappeared from the Beijing Museum of Natural History. Meet with the Fine Arts curator, Clounce Mandela.</li>
+				  <li class="bonus">Bonus Reward: ╞5000 - Recover the artifact and return it to the museum IN ONE PIECE.</li>
                   </ul>
 				  
 				  </div>

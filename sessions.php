@@ -74,6 +74,31 @@
 				  </div>
 				  <!-- Date 3 - end -->
 				  
+				  <!-- Date 4 -->
+	<div>
+              <fieldset style="border: none;" class="majorpoints">
+                <legend class="majorpointslegend"><b>&nbsp; Session 4 &nbsp;</b></legend>
+                <div class="hidersb" style="display:none">
+				
+				<b>"Uh Oh, Spaghetti-O's!"</b>
+                  <ul style="font-size: 12pt;">
+				  <li class="addition">Date: May 12th, 2078</li>
+				  <li class="newpage">The Hub has exploded!</li>
+				  <li class="bug">The Group accepted "Who Let the Xuhai Out"!</li>
+				  <li class="change">After getting paid for their excursion to the orphanage to bust some ghosts, the Group paid Jimothy Ticket a visit in his Forbidden City hideout to talk about the treatment of children with experimental beverages. Holding Mr. Ticket's laptop (and weird collection of Victorian animal-people photographs) hostage, Bellamy came to an agreement with the man in exchange for his very own smartwatch.
+				  <br/><br/>While wrapping up the mission, Diego Ku sent Starbuck "Danger" Gonzales and Cornelius Quartermain III to bring the rest of the lightly toasted orphans back to the Hub for medical exams - buying them time to also repair some damage to the orphanage itself before they could let anyone return to the location. Bellamy arranged for his recently-adopted daughter Yesenya to stay and help Grandfather Clock at the shop while the Group set out on another mission.
+				  <br/><br/>The Beijing Museum of Natural History has asked the Hub to do some reconnaissance regarding the disappearance of the artifact known as Xuhai - an ancient brass teapot stolen 5 years ago. Though the trail ran cold for several reasons, it now pointed to an abandoned Nike warehouse.
+				  <br/><br/>When the Group arrived at the warehouse, they found a building full of lost and missing packages (another minor task Deigo set the Group on) as well as crates of explosives <i>and</i> the brass teapot. The group quickly returned the artifact in exchange for credits and returned to the Hub to share the good news.
+				  <br/><br/>As they approached the Hub, they noticed a drone flying over the Forbidden City walls, carrying a suspicious box.
+				  <br/><br/>Before they could reach Diego Ku, the box exploded.
+				  </li>
+                  </ul>
+				  
+				  </div>
+				  </fieldset>
+				  </div>
+				  <!-- Date 4 - end -->
+				  
 
 
 

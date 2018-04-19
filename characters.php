@@ -1,4 +1,4 @@
-<table style="margin: auto; position: relative; padding-right: 350px; top: -50px;">
+<table style="margin: auto; position: relative; padding-right: 328px; top: -50px;">
  <tbody><tr>
  <td id="chpcs" class="chmenu" style="left: -125px; color: #cf7fff;"><b>PCs</b></td>
  <td id="chnpcs" class="chmenu" style="left: -90px; color: #cf7fff;"><b>NPCs</b></td>
@@ -49,6 +49,7 @@
 	  <a href="#character4a">Bellamy</a>
 	  <a href="#character5a">Steve</a>
 	  <br/><a href="#character5ba">Broseph McBroheim</a>
+	  <a href="#character6ba">Octavious Knotchuth</a>
     </ul>
 	
 	<div class="tab-content">
@@ -294,6 +295,46 @@
 				  </div>
 				  <!-- Character 5b - End -->
 				  
+				  <!-- Character 6b -->				  
+				  <div id="character6ba" class="tab" style="display: none;">		
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Octavious Knotchuth</div>				  
+				<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Dedicated - 5</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Xicheng Hub</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Starting Occupation</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">1981</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">...</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">...</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Female</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">103</td>
+				<td style="background: #00000033;">Weight</td><td style="background: #4d054e33;">130lbs</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'5"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Silver</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Blue</td>
+				<td style="background: #00000033;">Item</td><td style="background: #4d054e33;">Rollershoes (regifted)</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg6b" class="img" src="companylogo.png">
+				  <b>...</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- Character 6b - End -->
+				  
 
 </div>
 </div>
@@ -321,6 +362,21 @@
 <div class="imgclose">X</div>
 <img id="chimg8b" class="imgb" src="companylogo.png">
 </div>
+
+<div hidden id="chimg9a" class="imga">
+<div class="imgclose">X</div>
+<img id="chimg9b" class="imgb" src="companylogo.png">
+</div>
+
+<div hidden id="chimg10a" class="imga">
+<div class="imgclose">X</div>
+<img id="chimg10b" class="imgb" src="companylogo.png">
+</div>
+
+<div hidden id="chimg11a" class="imga">
+<div class="imgclose">X</div>
+<img id="chimg11b" class="imgb" src="courtgif.gif">
+</div>
 <!-- chimages - end -->
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Non-Player Characters</h1>		
@@ -333,6 +389,9 @@
 	  <a href="#npc4a">Franklin Barry</a>
 	  <a href="#npc5a">Starbuck Gonzales</a>
 	  <a href="#npc6a">Cornelius Quartermain III</a>
+	  <a href="#npc7a">Jimothy Ticket</a>
+	  <a href="#npc8a">Dr. Clounce Mandela</a>
+	  <a href="#npc9a">Courtney</a>
     </ul>
 	
 	<div class="tab-content">
@@ -572,6 +631,122 @@
 				  </div>
 				  <!-- NPC 4 - End -->
 				  
+				  <!-- NPC 7 -->
+     <div id="npc7a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Jimothy Ticket</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Dedicated - 3</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Chaotic Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">China Teenagers and Childrens Fund</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Forbidden City (temporary)</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Orphanage Patron</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2029</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Ohio, USA</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">American</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Male</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">48</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Scrawny Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'3"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Combover, dark</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg9" class="img" src="companylogo.png">
+				  <b>Orphanage patron for the China Teenagers and Children Fund. Jimothy Ticket currently stays in the Forbidden City while repairs are made to the orphanage for fire/smoke damage and the children are kept in the infirmary for medical exams. Recently confronted about his deal with Rolatide to test Rola-Cola on the orphans.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 7 - End -->
+				  
+				  <!-- NPC 8 -->
+     <div id="npc8a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Dr. Clounce Mandela</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Human</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">Dedicated - 7</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">Lawful Good</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">Beijing Museum of Natural History</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Beijing</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Fine Arts Curator</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2035</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">New Delhi, India</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">Indian</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Female</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">43</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Slim Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'6"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Shoulder Length, Dark, Curly</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Brown</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg10" class="img" src="companylogo.png">
+				  <b>Fine Arts Curator for the Beijing Museum of Natural History. Dr. Mandela has spent the last 5 years tracking down the missing artifact, XuHai, with her virtual assistant Courtney. She enjoys practicing piano in her spare time.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 8 - End -->
+				  
+				  <!-- NPC 9 -->
+     <div id="npc9a" class="tab" style="display: none;">
+<div style="text-align: center; font-family: fredericka the great, cursive; font-size: 42pt; font-weight: normal;">Courtney</div>
+<table style="font-size: 12pt; margin: auto; text-align: center;">
+				<tr>
+				<td style="background: #00000033;">Race</td><td style="background: #4d054e33;">Artificial Intelligence</td>
+				<td style="background: #00000033;">Class - Level</td><td style="background: #4d054e33;">???</td>
+				<td style="background: #00000033;">Alignment</td><td style="background: #4d054e33;">True Neutral</td>
+				<td style="background: #00000033;">Alligence</td><td style="background: #4d054e33;">N/A</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Residence</td><td style="background: #4d054e33;">Your Heart</td>
+				<td style="background: #00000033;">Current Occupation</td><td style="background: #4d054e33;">Personal Assistant</td>
+				<td style="background: #00000033;">Date of Birth</td><td style="background: #4d054e33;">2062</td>
+				<td style="background: #00000033;">Place of Birth</td><td style="background: #4d054e33;">Beijing, China</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Nationality</td><td style="background: #4d054e33;">Internet</td>
+				<td style="background: #00000033;">Gender</td><td style="background: #4d054e33;">Female</td>
+				<td style="background: #00000033;">Age</td><td style="background: #4d054e33;">16</td>
+				<td style="background: #00000033;">Body</td><td style="background: #4d054e33;">Slim Build</td>
+				</tr>
+				<tr>
+				<td style="background: #00000033;">Height</td><td style="background: #4d054e33;">5'5"</td>
+				<td style="background: #00000033;">Hair</td><td style="background: #4d054e33;">Baby Pink</td>
+				<td style="background: #00000033;">Eyes</td><td style="background: #4d054e33;">Baby Pink</td>
+				</table>
+				
+				<div style="text-align: center;">
+				<b style="font-size: 18pt; margin: auto;">Background</b>
+				<ul style="font-size: 10pt;text-align: left;">
+				  <li class="chparagraph">
+				  <img id="chimg11" class="img" src="courtgif.gif">
+				  <b>Courtney was created in 2062 by the MicroSAM company as a personal assistant A.I. She is usually seen as a hologram projection, but is also available on smart devices and personal computers.</b></li>
+                  </ul>
+				  </div>
+				  </div>
+				  <!-- NPC 9 - End -->
 				  
 
 </div>
@@ -621,6 +796,15 @@ $(document).ready(function() {
 	});
 	$('#chimg8').click(function(e) {
 		$('#chimg8a').toggle();
+	});
+	$('#chimg9').click(function(e) {
+		$('#chimg9a').toggle();
+	});
+	$('#chimg10').click(function(e) {
+		$('#chimg10a').toggle();
+	});
+	$('#chimg11').click(function(e) {
+		$('#chimg11a').toggle();
 	});
 	 $('.imgclose').click(function(e) {
 		$(this).parent('.imga').css('display', 'none');

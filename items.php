@@ -36,6 +36,10 @@
 <img id="itimg6b" class="itimgb" src="glasses.png">
 </div>
 
+<div hidden id="itimg7a" class="itimga">
+<div class="itimgclose">X</div>
+<img id="itimg7b" class="itimgb" src="xuhai.png">
+</div>
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Items</h1>			
 		
@@ -50,7 +54,7 @@
 			<option>Smartglasses</option>
 			<option>Smartwatch</option>
 			<option>USB</option>
-			
+			<option>XuHai</option>
 			</select>
    </div>
    
@@ -109,6 +113,9 @@
 				<div style="text-align: center;">Codes Unlocked:
 				<br/>Fuchsia
 				<br/>Inchworm
+				<br/>Nightlight
+				<br/>Delta
+				<br/>_______
 				<br/>_______
 				<br/>_______
 				<br/>_______
@@ -152,7 +159,17 @@
 				<br/>_______
 				<br/>_______
 </div>
-</div>			
+</div>
+
+<div hidden id="item7" style="text-align: center; margin: 50px 0px;">
+<img id="itimg7" class="itimg" src="xuhai.png">
+				
+				<div class="ittitle">XuHai</div>
+				<div class="itparagraph">
+				Ancient Brass Teapot
+				<br/>Recently recovered artifact. Currently resides at the Beijing Museum of Natural History, under the supervision of Dr. Clounce Mandela.
+</div>
+</div>		
 				  
 
 
@@ -195,6 +212,11 @@ $(function() {
       } else if ($(this).val() != "Smartglasses") {
         $("#item6").prop("hidden", true);
       }
+	  if ($(this).val() == "XuHai") {
+        $("#item7").prop("hidden", false);
+      } else if ($(this).val() != "XuHai") {
+        $("#item7").prop("hidden", true);
+      }
     });
 	
 	$(function() {
@@ -221,6 +243,9 @@ $(function() {
 	});
 	$('#itimg6').click(function(e) {
 		$('#itimg6a').toggle();
+	});
+	$('#itimg7').click(function(e) {
+		$('#itimg7a').toggle();
 	});
 	  $('.itimgclose').click(function(e) {
 		$(this).parent('.itimga').css('display', 'none');

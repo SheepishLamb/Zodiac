@@ -54,7 +54,8 @@
 	<tr><td class="item">Sonar+</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">Requires: Sonar.<br/>Extends radius to 40ft.</td></tr>
 	<tr><td class="item">Sonar++</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">Requires: Sonar and Sonar+.<br/>Extends radius to 60ft.</td></tr>
 	<tr><td class="item">Learn by Sleep</td><td class="appcheck">✓</td><td class="appcheck">&nbsp;</td><td class="cost">&#9566;1000</td><td class="desc">If left on overnight, player can train a skill during sleep. Gives +2 to chosen skill during the next day.</td></tr>
-	<tr><td class="item">Did It Hurt?</td><td class="appcheck">&nbsp;</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">When speaking to character of the preferred gender, 25% chance of app prompting a pickup line, giving +3 to diplomacy. 5% chance of pickup line bombing.</td></tr>
+	<tr><td class="item">Did It Hurt?</td><td class="appcheck">&nbsp;</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">When speaking to character of the preferred gender, 25% chance of app prompting a pickup line, giving +3 to Diplomacy. 5% chance of pickup line bombing.</td></tr>
+	<tr><td class="item">John Cena</td><td class="appcheck">✓</td><td class="appcheck">✓</td><td class="cost">&#9566;1000</td><td class="desc">Obscures only the face for 10 minutes at a time, giving +5 to Disguise checks.</td></tr>
 	
 	</table>
 	<br/>

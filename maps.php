@@ -44,64 +44,28 @@
 	<td>
 	<img id="mpimg1" class="mpimg" src="ForbiddenCityMap.png">
 	</td>
-	</tr>
-	<tr>
-	<td>The Forbidden City
-	</td>
-	</tr>
-	</table>
-   </div>
-   
-   <div id="mpicons">
-	<table style="text-align: center; margin: auto;">
-	<tr>
 	<td>
 	<img id="mpimg2" class="mpimg" src="baitasi.png">
 	</td>
-	</tr>
-	<tr>
-	<td>Baita Si
-	</td>
-	</tr>
-	</table>
-   </div>
-   
-   <div id="mpicons">
-	<table style="text-align: center; margin: auto;">
-	<tr>
 	<td>
 	<img id="mpimg3" class="mpimg" src="lotusblue.jpg">
 	</td>
-	</tr>
-	<tr>
-	<td>Lotus Blue
-	</td>
-	</tr>
-	</table>
-   </div>
-   
-   <div id="mpicons">
-	<table style="text-align: center; margin: auto;">
-	<tr>
 	<td>
 	<img id="mpimg4" class="mpimg" src="bmonh.jpg">
 	</td>
-	</tr>
-	<tr>
-	<td>Beijing Museum of Natural History
-	</td>
-	</tr>
-	</table>
-   </div>
-   
-   <div id="mpicons">
-	<table style="text-align: center; margin: auto;">
-	<tr>
 	<td>
 	<img id="mpimg5" class="mpimg" src="warehouse.jpg">
 	</td>
 	</tr>
 	<tr>
+	<td>The Forbidden City
+	</td>
+	<td>Baita Si
+	</td>
+	<td>Lotus Blue
+	</td>
+	<td>Beijing Museum of Natural History
+	</td>
 	<td>Nike Warehouse
 	</td>
 	</tr>

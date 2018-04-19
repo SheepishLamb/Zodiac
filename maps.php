@@ -30,9 +30,9 @@
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Settings</h1>			
 	
 <div style="font-size: 14pt; font-family: vt323;">
-              <fieldset style="border: none;" class="majorpoints">
+              <fieldset style="border: none;" class="majorpoints1">
                 <legend class="majorpointslegend" style="color: red;"><b>&nbsp; The year is 2078 - Year of the Earth Dog &nbsp;</b></legend>
-                <div class="hidersb" style="display:none">
+                <div class="hidersb1" style="display:none">
                   <ul style="font-size: 12pt;">
 				  <br/><br/><span style="color: yellowgreen;">Rolatide Incorporated</span> - the company responsible for the breakthrough in Alzheimer's treatment, along with a whole slew of medications, vitamins, and the jump in use of nanotechnology by the year 2050 -  has bought out most, if not all, of the competing companies in Beijing, China, causing a massive amount of job losses as the monopoly grew. Still needing credits to keep roofs over their heads and food on their plates, mercenary work quickly became the norm for the unemployed in Beijing. Whatever needed to be done with no questions asked, would be done - for a price. Quickly following were The Hubs - organized guilds for those Jack-of-all-Trades that would offer protection, equipment, and a steady stream of jobs for a small cut of the profits from each gig.
 <br/><br/>Your Hub is located in the Xicheng district of Beijing - namely <i style="color: yellowgreen;">The Forbidden City</i>.
@@ -111,8 +111,8 @@ $(function() {
 		$(this).parent('.mpimga').css('display', 'none');
 	});
 	
-	$('.majorpoints').click(function() {
-        $(this).find('.hidersb').toggle();
+	$('.majorpoints1').click(function() {
+        $(this).find('.hidersb1').toggle();
       });
 	  
 });

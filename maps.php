@@ -1,4 +1,3 @@
-<div id="mpcontainer">
 
 <!-- chimages -->
 <div hidden id="mpimg1a" class="mpimga">
@@ -26,6 +25,7 @@
 <img id="mpimg5b" class="mpimgb" src="warehouse.jpg">
 </div>
 
+<div id="mpcontainer">
 
 <h1 style="font-family: 'Libre Barcode 128 Text', cursive; font-size: 92px; text-align: center; line-height: 12pt; font-weight: 400;">Settings</h1>			
 	

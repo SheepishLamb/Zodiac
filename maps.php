@@ -56,7 +56,7 @@
 	<table style="text-align: center; margin: auto;">
 	<tr>
 	<td>
-	<img id="mpimg2" class="mpimg" src="baitaisi.png">
+	<img id="mpimg2" class="mpimg" src="baitasi.png">
 	</td>
 	</tr>
 	<tr>

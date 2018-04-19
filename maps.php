@@ -33,8 +33,6 @@
               <fieldset style="border: none;" class="majorpoints">
                 <legend class="majorpointslegend" style="color: red;"><b>&nbsp; The year is 2078 - Year of the Earth Dog &nbsp;</b></legend>
                 <div class="hidersb" style="display:none">
-				
-				<b>"Hide and Seek"</b>
                   <ul style="font-size: 12pt;">
 				  <br/><br/><span style="color: yellowgreen;">Rolatide Incorporated</span> - the company responsible for the breakthrough in Alzheimer's treatment, along with a whole slew of medications, vitamins, and the jump in use of nanotechnology by the year 2050 -  has bought out most, if not all, of the competing companies in Beijing, China, causing a massive amount of job losses as the monopoly grew. Still needing credits to keep roofs over their heads and food on their plates, mercenary work quickly became the norm for the unemployed in Beijing. Whatever needed to be done with no questions asked, would be done - for a price. Quickly following were The Hubs - organized guilds for those Jack-of-all-Trades that would offer protection, equipment, and a steady stream of jobs for a small cut of the profits from each gig.
 <br/><br/>Your Hub is located in the Xicheng district of Beijing - namely <i style="color: yellowgreen;">The Forbidden City</i>.

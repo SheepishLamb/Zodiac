@@ -50,6 +50,15 @@
 	<td>
 	<img id="mpimg3" class="mpimg" src="lotusblue.jpg">
 	</td>
+	</tr>
+	<tr>
+	<td>The Forbidden City
+	</td>
+	<td>Baita Si
+	</td>
+	<td>Lotus Blue
+	</tr>
+	<tr>
 	<td>
 	<img id="mpimg4" class="mpimg" src="bmonh.jpg">
 	</td>
@@ -58,12 +67,6 @@
 	</td>
 	</tr>
 	<tr>
-	<td>The Forbidden City
-	</td>
-	<td>Baita Si
-	</td>
-	<td>Lotus Blue
-	</td>
 	<td>Beijing Museum of Natural History
 	</td>
 	<td>Nike Warehouse

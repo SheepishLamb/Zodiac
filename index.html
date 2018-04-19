@@ -32,7 +32,7 @@
 </table>
 <!-- Menu - End -->
 
-<div style="width: 100%; margin: auto; text-align: center; background: #d8caaa1f;">
+<div id="warn1" style="position: absolute; width: 95%; margin: 20px; text-align: center; background: #d8caaa1f; color: orange; font-family: simsun;">
 <img style="width: 100px;" src="warning.gif">
 <br/>ATTENTION!
 <br/>The Xicheng Hub has been attacked!
@@ -127,6 +127,7 @@ $('#sessions1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("characters1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -142,6 +143,7 @@ $("#sessions").click(function() {
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("sessions1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -172,6 +174,7 @@ $('#sessions1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("maps1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -187,6 +190,7 @@ $('#sessions1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#shop1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("missions1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -203,6 +207,7 @@ $('#sessions1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("shop1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -219,6 +224,7 @@ $('#sessions1').css("display", "none");
 	$('#maps1').css("display", "none");
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
+	$('#warn1').css("display", "none");
   var x = document.getElementById("index1");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -253,6 +259,7 @@ $(document).ready(function() {
 	$('#missions1').css("display", "none");
 	$('#shop1').css("display", "none");
 	$('#index1').css("display", "none");
+	$('#warn1').css("display", "none");
     });
 	
 });
@@ -271,6 +278,11 @@ $(document).ready(function() {
         $(this).find('.hiders').toggle();
       });
 
+	  if ($("#logo1").is(":visible") || $("#characters1").is(":visible") || $("#sessions1").is(":visible") || $("#items1").is(":visible") || $("#maps1").is(":visible") || $("#missions1").is(":visible") || $("#shop1").is(":visible")) {
+	  $("#warn1").prop("hidden", true);
+	  }else if ($("#logo1").not(":visible") && $("#characters1").not(":visible") && $("#sessions1").not(":visible") && $("#items1").not(":visible") && $("#maps1").not(":visible") && $("#missions1").not(":visible") && $("#shop1").not(":visible")) {
+	  $("#warn1").prop("hidden", false);
+	  }
       
       // End
     });
